@@ -1,0 +1,2103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unpremeditated thoughts of the knowledge of God, whom to know, is life eternal. With some discoveries of the mysteries of creation, in the six days work, and the seventh days rest. : To which is added, a short discourse concerning those two great principles of natural philosophy, matter and motion. / Humbly offered to consideration, by one of the Philadelphia Society, who calls her self Irena.</title>
+            <author>Institut de recherches européennes sur les noblesses et aristocraties.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 125 KB of XML-encoded text transcribed from 87 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95810</idno>
+            <idno type="STC">Wing U92A</idno>
+            <idno type="STC">ESTC R185871</idno>
+            <idno type="EEBO-CITATION">43077731</idno>
+            <idno type="OCLC">ocm 43077731</idno>
+            <idno type="VID">151842</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95810)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151842)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2278:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unpremeditated thoughts of the knowledge of God, whom to know, is life eternal. With some discoveries of the mysteries of creation, in the six days work, and the seventh days rest. : To which is added, a short discourse concerning those two great principles of natural philosophy, matter and motion. / Humbly offered to consideration, by one of the Philadelphia Society, who calls her self Irena.</title>
+                  <author>Institut de recherches européennes sur les noblesses et aristocraties.</author>
+               </titleStmt>
+               <extent>[12], 156 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle, next door to the Meeting-House in White-Hart-Court in Gracious-Street, and at the Bible in Leaden Hall-Steet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Dr. Williams' Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Knowableness.</term>
+               <term>Creation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151842:1" rendition="simple:additions"/>
+            <p>Unpremeditated THOUGHTS Of the Knowledge of GOD, Whom to know, Is
+LIFE ETERNAL, WITH Some Diſcoveries of the Myſteries of the Creation, in
+the Six Days Work, and the Seventh Days Reſt. To which is added, A Short
+Diſcourſe concerning thoſe Two Great Principles of Natural Philoſophy,
+<hi>Matter</hi> and <hi>Motion.</hi>
+            </p>
+            <p>Humbly offered to Conſideration, by One of the
+<hi>Philadelphia</hi> Society, who calls her Self <hi>IRENA.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>T. Sowle,</hi> next Door
+to the <hi>Meeting-Houſe</hi> in <hi>White-Hart-Court</hi> in
+<hi>Gracious-Street,</hi> and at the <hi>Bible</hi> in <hi>Leaden
+Hall-Street,</hi> 1697.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:151842:2" rendition="simple:additions"/>
+            <pb facs="tcp:151842:2"/>
+            <head>TO THE Moſt Illuſtrious And Excellent BENTIVOLIO My Unknown
+Friend.</head>
+            <opener>
+               <salute>Illuſtrious Stranger,</salute>
+            </opener>
+            <p>PArdon my giving You a Name, ſince You have not been plea<g ref="char:EOLhyphen"/>ſed
+to make Your Self known to me by any: Pardon my not giving <pb facs="tcp:151842:3" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb facs="tcp:151842:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb facs="tcp:151842:4"/>You a Name and Titles which
+might better ſuit Your High Quality: Poſſibly I might not ſee thorow
+Your Diſguiſe. However, ſuffer me, <hi>Great SIR,</hi> to make Uſe of
+this Ignorance to co<g ref="char:EOLhyphen"/>ver my not knowing how to converſe with a Perſon ſo
+much Above me: I take the Oppor<g ref="char:EOLhyphen"/>tunity of Your Vailing Your Self, to Approach
+You: As we can better behold the Sun when it <pb facs="tcp:151842:4"/>Vails it Self, than
+when it breaks through the Clouds.</p>
+            <p>Whatever might a lit<g ref="char:EOLhyphen"/>tle hide Your Greatneſs, no Outward
+Cloathing could hinder me from ſeeing the Excellencies of Your Mind: The Idea
+I received of that, En<g ref="char:EOLhyphen"/>couraged me to pay the ſmall Homage of Pre<g ref="char:EOLhyphen"/>ſenting
+theſe Papers. The Mixture that is of mine in them, ſhews the <pb facs="tcp:151842:5"/>Darkneſs and Barrenneſs of my Mind; and great<g ref="char:EOLhyphen"/>ly needs Your Charity
+and Humility to cover its Imperfection. What there is in them worthy Your
+Obſervation, is not mine, but as it is Freely Given, and Paſſively
+Re<g ref="char:EOLhyphen"/>ceived.</p>
+            <p>If I have any ſight at all, I taſted a little of the Honey of
+the Hea<g ref="char:EOLhyphen"/>venly <hi>Canaan,</hi> and my Eyes are Enlightened; <pb facs="tcp:151842:5"/>My
+blind Eyes have been Anointed with Eye-Salve; and I ſee, tho' it be but
+little, Men as Trees.</p>
+            <p>
+               <hi>Excellent SIR,</hi>
+            </p>
+            <p>Accept this ſmall Tri<g ref="char:EOLhyphen"/>bute; Accept it as an Ex<g ref="char:EOLhyphen"/>preſſion of
+Gratitude for the moſt High and Noble Favours: Receive it as the Greateſt
+Act of Charity and Humility You can Exerciſe; eſpecially if <pb facs="tcp:151842:6"/>You
+pleaſe to pardon my calling You my <hi>Friend,</hi> who am not Worthy to
+be</p>
+            <closer>
+               <signed>
+                  <hi>The Meaneſt of Your Servants,</hi>
+IRENA.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:151842:6"/>
+            <head>THE EPISTLE TO THE <hi>Reader,</hi>
+            </head>
+            <p>
+               <hi>I</hi> Have no Great Man to preſent theſe few Sheets to,
+whoſe Name might make them paſs into the World with more Gran<g ref="char:EOLhyphen"/>deur: 
+<pb facs="tcp:151842:7"/>It may be with ſome this might gain a little Eſteem or
+Applauſe; But this I ſeek not.</p>
+            <p>What is mine in this Pa<g ref="char:EOLhyphen"/>per, is not worth Preſent<g ref="char:EOLhyphen"/>ing to any
+Body; What is from GOD, it is moſt fit I ſhould offer up to Him, with my
+Self; Which I do Free<g ref="char:EOLhyphen"/>ly, Wholly, and Heartily.</p>
+            <p>Receive from me, Lord, the All that Thou haſt gi<g ref="char:EOLhyphen"/>ven <pb facs="tcp:151842:7"/>me, which I humbly pro<g ref="char:EOLhyphen"/>ſtrate at Thy Sacred Feet; With a
+Thank-Offering to Him that Lives and Reigns for ever and for ever.</p>
+            <p>
+               <hi>Reader,</hi>
+            </p>
+            <p>Thou knoweſt not who I am; And if thou didſt know my Outward
+Perſon, thou wouldſt know a poor vile con<g ref="char:EOLhyphen"/>temptible ſinful Creature. What
+Treaſure I have, is in an Earthen Veſſel, that <pb facs="tcp:151842:8"/>the Power may
+be known to be of God.</p>
+            <p>If thou receiveſt any Teach<g ref="char:EOLhyphen"/>ing in the Reading this Pa<g ref="char:EOLhyphen"/>per, if
+thou feeleſt any Quick<g ref="char:EOLhyphen"/>ning, give GOD all the Glo<g ref="char:EOLhyphen"/>ry, who alone is
+Worthy.</p>
+            <closer>
+               <salute>Dear Reader,</salute> 
+               <signed> I am <hi>Thine in our
+Bleſſed and Glorious JESUS.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="1" facs="tcp:151842:8"/>
+            <head>Unpremeditated THOUGHTS Of the Knowledge of GOD.</head>
+            <p>IT is the Duty of all Man<g ref="char:EOLhyphen"/>kind to know GOD, the bleſſed
+Creator and Former of all things; and there is in Man, in his Creation and
+Con<g ref="char:EOLhyphen"/>ſtitution, a Power innate or in<g ref="char:EOLhyphen"/>herent, of knowing GOD; and therefore the
+very Heathens are left without excuſe if they know Him not: For the holy
+Apo<g ref="char:EOLhyphen"/>ſtle St. <hi>Paul,</hi> exhorting them to feel after him, if haply they 
+<pb n="2" facs="tcp:151842:9"/>might find him, tells them, <hi>He is not far from us, for in
+him we live, move, and have our being:</hi> So that this is the firſt and
+moſt univerſal Way that God hath vouchſaft Mankind whereby to know him,
+this Principle of Light implanted by God in his Nature: And doubtleſs the
+Heathen by turning into this Light, do find it increaſe; and they being
+faithful to it, do re<g ref="char:EOLhyphen"/>ceive a further Enlightning; as appears by ſeveral
+inſtances we have of ſuch as have attained to great Knowledge of God, of
+Themſelves, and of the Nature of Things. My ſcanty Read<g ref="char:EOLhyphen"/>ing affords me the
+knowledge o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but few of theſe
+Excellent Per<g ref="char:EOLhyphen"/>ſons; but thoſe I have a little knowledge of, I very much
+ad<g ref="char:EOLhyphen"/>mire; as that Excellently Di<g ref="char:EOLhyphen"/>vine, tho' Heathen Philoſophe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <pb n="3" facs="tcp:151842:9"/>
+               <hi>Hermes
+Triſmegiſtus,</hi> who had ſo early a Knowledge of God, as before the
+World was bleſt with (our Divinely Inſpired) <hi>Moſes</hi> his Writings,
+the Excellent <hi>Her<g ref="char:EOLhyphen"/>mes</hi> had a profound Knowledge of God and Nature, as
+who reads his Book (turning in to the ſame Light) will find: I ſhall only
+inſtance in what he ſaith of holy Stilneſs and Silence, a thing which I
+fear many Chriſtians are ſo unacquainted with, that they hardly know there
+is ſuch a thing from their own Experience, tho' certainly it is the true
+ground of all Spiritual Activity. Another that occurs to my thoughts is the
+famed <hi>Ariſtotle,</hi> who certainly knew much of God, and Uni<g ref="char:EOLhyphen"/>verſal
+Nature; tho' ſome good and ingenious Men will hardly allow him any great
+Character. But to ſhew their Skill in argu<g ref="char:EOLhyphen"/>ing, <pb n="4" facs="tcp:151842:10"/>or
+ſometimes for want of underſtanding the deep Philoſo<g ref="char:EOLhyphen"/>phy of the Ancients,
+they im<g ref="char:EOLhyphen"/>poſe their own imagination as the ſence of ſuch a Philoſopher,
+which, it may be, was foreign from his thoughts; and this fan<g ref="char:EOLhyphen"/>cy of their own
+they ridicule, and bring the Unthinking World into an ill Opinion of the Author
+and his Writings, without juſt ground: As ſome Perſons, Sir <hi>Charles
+Woolſley</hi> and others, wri<g ref="char:EOLhyphen"/>ting againſt Atheiſm, do menti<g ref="char:EOLhyphen"/>on
+<hi>Ariſtotle</hi>'s ſaying the World is Eternal, as a groſs piece of
+Athe<g ref="char:EOLhyphen"/>iſm; indeed to ſay it is Eternal, in the ſence they make
+<hi>Ariſtotle</hi> ſpeak, is irreligious and irratio<g ref="char:EOLhyphen"/>nal; to ſay the
+World is Eter<g ref="char:EOLhyphen"/>nal in this mutable ſtate of Cau<g ref="char:EOLhyphen"/>ſes and Effects, Generation
+and Corruption; but certainly the wiſe Antients had a more deep 
+<pb n="5" facs="tcp:151842:10"/>ſight than this, they ſaw the World had a Divine Eternal
+Ori<g ref="char:EOLhyphen"/>ginal in God; and this and many more excellent Truths, they ſaw more
+clearly than many of us, who have the Happineſs to be born in the Chriſtian
+World, and to have the ſecond and more ex<g ref="char:EOLhyphen"/>cellent way of knowing God by the
+Revelation he hath made of himſelf in his written Word. We can never be
+enough thank<g ref="char:EOLhyphen"/>ful for the ſacred Writ, that ho<g ref="char:EOLhyphen"/>ly Men of old ſpake as they
+were inſpired by the Spirit of God, and inſtructed us in the knowledge of
+the Name, Nature, Attributes of God, in the myſtery of the Creati<g ref="char:EOLhyphen"/>on,
+Production or Birth of the World; in <hi>Geneſis,</hi> Chapter 1. and many
+other places of Scrip<g ref="char:EOLhyphen"/>ture. The bleſſed Apoſtle St. <hi>Paul</hi>
+ſaith, quoting the Heathen Poets, <hi>We are his Ofspring;</hi> the Holy 
+<pb n="6" facs="tcp:151842:11"/>Scriptures do alſo inſtruct us in the knowledge of Gods
+Provi<g ref="char:EOLhyphen"/>dence and Government of the World in many Ages and Gene<g ref="char:EOLhyphen"/>rations, with the
+Admirable Con<g ref="char:EOLhyphen"/>nexion, Beauty and Harmony of his Works and Ways of Provi<g ref="char:EOLhyphen"/>dence;
+an account of which the Scripture is full of throughout; and I might inſtance
+in very many particular places of Scrip<g ref="char:EOLhyphen"/>ture, but this is done by excellent
+hands who diſcourſe largely on this Subject, as <hi>Charnock</hi> and
+others: we have alſo in Holy Writ an account of Mankind, his divine Original,
+being made after the Image of God, in a Bleſſed State, a little lower then
+the Angels; and alſo of his De<g ref="char:EOLhyphen"/>plorable State that he by Diſobe<g ref="char:EOLhyphen"/>dience fell
+into, and became worſe then the beaſts that periſh: we have alſo an
+account of the <pb n="7" facs="tcp:151842:11"/>moſt Admirable Work of the Redemption of
+Mankind by <hi>Jeſus Chriſt</hi> our Lord; the me<g ref="char:EOLhyphen"/>thods our Bleſſed
+<hi>Jeſus</hi> took (are diſcovered to us) by which this great Work was
+performed for us, and alſo the operation of his Spirit in us; all theſe
+admi<g ref="char:EOLhyphen"/>rable Myſteries are delivered to us with that Authority, Majeſty,
+Sweetneſs and Love, that we can never be enough thankful for them: But O! How
+ſhort are we in our underſtandings of them? How little acquainted with
+their Worth and Excellency till we receive the third and laſt Bleſſed
+Help afforded by God to poor Mankind, his own Holy Spirit, by whom our minds
+be<g ref="char:EOLhyphen"/>come Enlightned in the Know<g ref="char:EOLhyphen"/>ledge of God and of our ſelves, and by being
+Illuminated by the ſame Spirit which the Holy Pen<g ref="char:EOLhyphen"/>men <pb n="8" facs="tcp:151842:12"/>were
+Inſpired with, we come to have the Scripture open<g ref="char:EOLhyphen"/>ed to us clearly; and
+indeed though of our ſelves we know nothing as we ought to know, yet in this
+Spirit we come to know all things; for the Spirit ſearcheth all things, even
+the deep things of God, and ſhews them unto us: our Bleſſed Savi<g ref="char:EOLhyphen"/>our
+tells us in <hi>John</hi> 16. v. 12. &amp; 13. <hi>I have yet many things to
+ſay unto you, but you cannot bear them now; howbeit, when the Spirit of Truth
+is come, he will guide you into all Truth, and he will ſhew you things to
+come:</hi> Now it is our duty to attend to this Voice of God in us, to the
+Teachings of his holy Spirit, who is an Inter<g ref="char:EOLhyphen"/>preter, one of a Thouſand:
+Thoſe things in St. <hi>Paul</hi>'s Epiſtles, and other Scriptures, hard to
+be un<g ref="char:EOLhyphen"/>derſtood, are made eaſie by the <pb n="9" facs="tcp:151842:12"/>teachings of this
+Spirit; the Lord did ſtrive with the old World by his Spirit, in the minds of
+men; there was not many Preachers in thoſe days; but <hi>Noah</hi> we read
+was a Preacher of righteouſneſs, he preached by his Faith, which he
+ſhewed forth by his Works: Tho' the Lord hath been from the beginning,
+ſtriving with Mankind by his Spirit, yet this is the time when we have the
+greateſt Encouragement to pray and wait for this great Bleſſing, as the
+Fruit and Effect of the Re<g ref="char:EOLhyphen"/>ſurrection and Aſcenſion of our bleſſed
+Saviour, who aſcended up on high, that he might give Gifts unto men, this
+great Gift of the Father, his holy Spirit. Our Lord choſe ſome to be
+Witneſſes of his Reſurrection and Aſcen<g ref="char:EOLhyphen"/>ſion; he hath alſo made
+ſome able to witneſs to this effect of <pb n="10" facs="tcp:151842:13"/>his
+Aſcenſion; and to the Un<g ref="char:EOLhyphen"/>worthieſt, leſs than the leaſt of all, is
+this grace given: He hath been pleaſed to open the ſtill Eternity, and to
+ſhew the ever<g ref="char:EOLhyphen"/>bleſſed Deity, in the moſt ſweet harmonious
+Stillneſs, deep holy Silence, looking into his own Center of Light, beholding
+his own Heart, the lovely Image of Himſelf, which cauſed that Joy and
+Deſire of bringing forth his own lovely Image, and this De<g ref="char:EOLhyphen"/>ſire brought
+forth into manife<g ref="char:EOLhyphen"/>ſtation the only begotten Son of God, the glorious Image of
+the Inviſible God, and the expreſs Character of his Perſon, who is God
+bleſſed for evermore; from the Love-Union and Co-Opera<g ref="char:EOLhyphen"/>tion of God the
+Father, and God the Son, did proceed God the ho<g ref="char:EOLhyphen"/>ly Ghoſt, from the Union and
+pure Mingling of the Awful Ma<g ref="char:EOLhyphen"/>jeſtick <pb n="11" facs="tcp:151842:13"/>Light of the
+Father, with the Refulgent bright Light of the Son, doth proceed the ſweet
+meek peaceful Light of the holy Spi<g ref="char:EOLhyphen"/>rit; and theſe Three who bear Witneſs
+in Heaven, the Father, the Word, and the Spirit, agree in One; and all their
+Operations are conjunct, as well as diſtinct. As in the Creation and
+Producti<g ref="char:EOLhyphen"/>on of the World, the holy Fa<g ref="char:EOLhyphen"/>ther and Son impowered and im<g ref="char:EOLhyphen"/>pregnated
+the bleſſed Spirit, in order to the production of this beautiful World, and
+the Spirit of God moved upon the Face of its own Waters, it Self being the
+Principle of the Water; the Compariſon of a Hen may not be unfitly uſed,
+who firſt produ<g ref="char:EOLhyphen"/>ceth the Watry ſubſtance of the Egg, and then being
+impregna<g ref="char:EOLhyphen"/>ted, or filled with Life and Heat, ſhe by moving upon, and hover<g ref="char:EOLhyphen"/>ing
+<pb n="12" facs="tcp:151842:14"/>over this moiſt ſubſtance, produceth her own form and
+re<g ref="char:EOLhyphen"/>ſemblance: And herein it is that the pure immaculate Virgin Wiſdom, the
+holy Spirit of the Eternal God, firſt performs the Office of a Mother, or
+Female; from this fruitful Womb it is that all Forms of Things are brought:
+<hi>By his Wiſdom he for<g ref="char:EOLhyphen"/>med the Earth, and by his Spirit he garniſhed the
+Heavens.</hi> Hear what the Voice of our bleſſed Mother Wiſdom ſaith of
+this concerning her ſelf, in the Eighth of the <hi>Proverbs;</hi> begin at
+the 22th Verſe, and read to the 29th. In the 21th verſe, <hi>When he
+prepa<g ref="char:EOLhyphen"/>red the Heavens, I was there; when he ſet a Compaſs on the Face of
+the Depth,</hi> &amp;c. Now as at firſt the World was made by <hi>Ruach
+Elo<g ref="char:EOLhyphen"/>him,</hi> the Spirit, Wind, or Breath of God; ſo it is continued by the 
+<pb n="13" facs="tcp:151842:14"/>ſame Power; if he with-draws his Spirit and his Breath,
+we die, and come to nothing; he returns with his Spirit, and renews the face of
+all things. Now </p>
+            <lg>
+               <l>I'll ſing the praiſe of the Eternal One</l>
+               <l>I know beſides Him there is none;</l>
+               <l>No ſort of Being that can ſay</l>
+               <l>It hath its Life another way;</l>
+               <l>But from this Deep Abyſſal Ground.</l>
+               <l>The Life of all things may be found,</l>
+               <l>To Flow out from th' Eternal Source,</l>
+               <l>As Springs do from their Water-Courſe.</l>
+               <l>Springs may wander, Sheep may ſtray,</l>
+               <l>The Sun be clouded at Noon-Day:</l>
+               <l>The Shepherd ſeeks the ſtragling Sheep,</l>
+               <l>'Tis not the Clouds the Sun can keep</l>
+               <pb n="14" facs="tcp:151842:15"/>
+               <l>From ſhining forth ſo glorious bright,</l>
+               <l>As to diſpel their Darkſome Night.</l>
+               <l>Great Rivers from the Sea do flow,</l>
+               <l>And back into it ſwiftly go:</l>
+               <l>So our Great <hi>Alpha</hi>'s <hi>Omega</hi> too;</l>
+               <l>Tho' we, like a Bird from her Neſt flew,</l>
+               <l>Wander about to find out Reſt,</l>
+               <l>We muſt Return ere we are Bleſt:</l>
+               <l>And now I am inſpir'd by Thee,</l>
+               <l>Bleſt Spirit, I'll praiſe the One, Two, Three.</l>
+               <l>For in th' Eternal One doth lie</l>
+               <l>The All-Myſterious Trinity.</l>
+            </lg>
+            <p>Oh that Men would praiſe the Lord for his wonderful Works to the
+Children of Men! All Creatures ought to praiſe the immenſe Fountain of
+their Lives.</p>
+            <pb n="15" facs="tcp:151842:15"/>
+            <p>I cannot but put down here a Verſe I read in Dr.
+<hi>Ingelo</hi>'s <hi>Ben<g ref="char:EOLhyphen"/>tivolio.</hi>
+            </p>
+            <q> 
+               <l>We thank thee, God, the Father of us All,</l> 
+               <l>And celebrate the Worlds Original.</l>
+            </q>
+            <p>This is brought to my remem<g ref="char:EOLhyphen"/>brance, and I am glad to receive help
+through the Veſſel of ano<g ref="char:EOLhyphen"/>ther, to quicken me in this ſweet work of
+praiſing God; nay, I ſhould be glad to be ſtirr'd up by the chirping of a
+pretty little Bird, who in its kind ſings its Creators Praiſe: But O what
+cauſe hath Man to adore and praiſe the great good God, after whoſe Image
+he was made, in Righteouſneſs and Holineſs. <hi>Gen.</hi> 1.27. <hi>So
+God created Man in his own Image; in the Image of God created he him, Male and
+Female <pb n="16" facs="tcp:151842:16"/>created he them:</hi> There is a great Myſtery in
+theſe words, which none but the Spirit of God can unfold; not only Man, but
+'tis obvious to us, many other Crea<g ref="char:EOLhyphen"/>tures were thus made, Male and Female; the
+very Lights of Heaven are ſo made, as ſaith <hi>Van Helmont,</hi> in a
+little Book of his. This I ſay not to ſhew my Rea<g ref="char:EOLhyphen"/>ding; no, I have done
+with that vain-glorious Mind; but I am made to value the Teachings of God I
+receive from others, as al<g ref="char:EOLhyphen"/>ſo thoſe which are more immedi<g ref="char:EOLhyphen"/>ate to my ſelf.
+The fiery Male Lights, as the Sun and others, and the cool and watry Lights, as
+<hi>Venus</hi> and the <hi>Moon,</hi> with their Female Lights, do by their
+va<g ref="char:EOLhyphen"/>rious Motions, Conjunctions, and and the like, perform ſtrange Wonders in
+the Heavens above, and in the Earth beneath, by their <pb n="17" facs="tcp:151842:16"/>Influence and Effects; alſo our Terreſtrial Sun and Moon, and
+other Watry Lights which inha<g ref="char:EOLhyphen"/>bit our Earth, do alſo perform ſtrange
+changes and alterrations in their work-houſe the Caverns of the Earth; and
+doubtleſs had Man the Wiſdom reſtored to him which he loſt by the Fall,
+could he return to his Paradiſical State, and regain his Empire over the
+Creatures, he might with his own hands, (by rightly ap<g ref="char:EOLhyphen"/>plying Agent and
+Patient, theſe Fiery Active Lights, and Paſſive Cool Lights, our Sun and
+Moon, or our unripe Watry Moon) be enabled to perform Extraordina<g ref="char:EOLhyphen"/>ry Effects;
+ſuch as might free himſelf and his Fellow-Creatures in a great meaſure
+from the Bur<g ref="char:EOLhyphen"/>then they groan under; I would not boaſt beyond my line, to
+ſay I have done much of this <pb n="18" facs="tcp:151842:17"/>with my own hands; but I
+ſee ſomething of it in the Spirit; and if it pleaſe the Great and Good
+God, the time may come when I may be enabled to do more, by receiving further
+Teachings, either immediately from the Illuminations of his Spirit, or by the
+Enlightenings of ſome Perſon ſo Taught: but I find it a hard thing to
+come out of the Fallen State, out of the World of Mix<g ref="char:EOLhyphen"/>tures, out of the
+Wiſdom of this World, ſo Purely, ſo Fully, as to be made Fit for the
+Bleſſed Teachings and Illuminations of the Spirit of God; though I know the
+Wiſdom of this World is Fooliſhneſs with God; yet while any thing remains
+of the Fallen Nature, we are apt to be taken with that which we think a Fine
+Curious Image in us, or our own Reaſon and Imaginati<g ref="char:EOLhyphen"/>on. <pb n="19" facs="tcp:151842:17"/>But this muſt be broken to pieces; for I tell you, ye great Admirers
+of Reaſon, ye glory in your ſhame, for it is but the Principle of the
+fall'n Nature: 'Tis ſaid, <hi>God breathed into Man the Breath of Life, and
+he became a Living Soul:</hi> Man received immediately from God an
+Intel<g ref="char:EOLhyphen"/>lectual Light, and this Light was the Life of Man: <hi>Adam,</hi> while
+he ſtood, acted according to, or from this Principle: When the Creatures were
+brought before him, he did not enter into the Reaſoning, why this ſhould be
+Named ſo, and that otherwiſe; no, from his intellectual Sight and
+Knowledge, he ſaw their Natures, and gave them ſuitable Names immediately.
+Had Man ſtood, it is plain he had been go<g ref="char:EOLhyphen"/>verned according to this
+Princi<g ref="char:EOLhyphen"/>ple, by immediate Revelation, <pb n="20" facs="tcp:151842:18"/>and Poſitive
+Command, by the Soveraign Will and Wiſdom of his Creator; as appears by the
+Command, <hi>And the Lord God com<g ref="char:EOLhyphen"/>manded the Man, ſaying, Of every Tree of
+the Garden thou mayeſt eat, but of the Tree of the Knowledge of Good and
+Evil, thou ſhalt not eat of it;</hi> This Command is poſitive: But Woman,
+through the Sub<g ref="char:EOLhyphen"/>tilty of the Serpent entred into the Reaſoning, why ſhe
+ſhould not eat; <hi>It was pleaſant to the Eyes, and good for Food, and a
+Tree to be deſired to make one wiſe;</hi> The why, wherefore, how, and for
+what, brought in the deplorable Fall. O how are the Mighty fallen! How are the
+Mighty fallen! How is our Gold become Droſs! <hi>God made Man upright, but he
+hath ſought out many Inventions; Vain Man would be wiſe, but he is like the
+wild Aſſes Colt;</hi> ſnuffing <pb n="21" facs="tcp:151842:18"/>up the Eaſt-Wind of
+Vanity and Emptineſs. When Man would remove himſelf from the imme<g ref="char:EOLhyphen"/>diate
+Conduct of the Wiſdom and Will of God, and would be guided by a Wiſdom and
+Will of his own, by his own Reaſon, he broke himſelf off from God; and
+inſtead of a Branch of that Noble Vine, he became a dege<g ref="char:EOLhyphen"/>nerate Plant. And I
+tell you, Till we return back by the way we came out of this bleſſed
+Pa<g ref="char:EOLhyphen"/>radiſical State, we cannot be happy; but this is a way the Vultures Eye
+hath not ſeen, nor can Reaſon comprehend it; <hi>for the Natural Man
+perceiveth not the things of God, neither can he, they are ſpiritually
+diſcerned.</hi> But when a Man is brought to ſay, Lord, I feel my ſelf in
+a bewil<g ref="char:EOLhyphen"/>dred fall'n ſtate of Darkneſs and the ſhadow of Death; I ſee
+thy <pb n="22" facs="tcp:151842:19"/>lovely Image defaced, the Taber<g ref="char:EOLhyphen"/>nacle of <hi>David</hi>
+fallen to the ground, thy Light in me vailed and covered; I feel my ſelf
+bro<g ref="char:EOLhyphen"/>ken off from thee my true Root and Original; I would fain re<g ref="char:EOLhyphen"/>turn to thee,
+but I know not how; Reaſon cannot ſhew me the way. Then the Lord comes and
+ſeals Inſtructions, gives his Spirit, enlightens the Man, and tells him,
+No, Reaſon cannot ſhew the way to Me; it carried thee off from Me: But come
+now, lay down thy own Reaſon, thy own Wiſdom and Will, loſe thy own Life,
+that thou may'ſt ſave it; and I will ſhew thee a way my Wiſdom hath
+found, which thy Wiſdom or Reaſon could not; for the Wiſdom of this World
+is Fooliſhneſs with Me; but I have found out a way will cauſe in thee
+Wonder, Admi<g ref="char:EOLhyphen"/>ration, <pb n="23" facs="tcp:151842:19"/>and Joy. Then the Lord Enlightens our
+Minds in the rea<g ref="char:EOLhyphen"/>ding the Scriptures, the Revela<g ref="char:EOLhyphen"/>tion of the great work of
+Re<g ref="char:EOLhyphen"/>demption of Man by <hi>Jeſus Chriſt</hi> our Lord his Son, our
+Bleſſed Sa<g ref="char:EOLhyphen"/>viour; the Myſteries which are Revealed in the Sacred
+Scrip<g ref="char:EOLhyphen"/>ture concerning our Bleſſed Sa<g ref="char:EOLhyphen"/>viour, from his Conception to his
+Aſcenſion, are ſo Deep and My<g ref="char:EOLhyphen"/>ſterious, that the Plummet Line of
+Reaſon cannot fathom them, but they are Revealed to Babes by the ſame
+Spirit in which they were written; there is certainly a great Myſtery in the
+Conception of our Saviour: The Perſon cho<g ref="char:EOLhyphen"/>ſen by God to have this Great
+Honour of being the Mother of our Lord, was a moſt Excellent Holy Woman and
+Pure Virgin; <hi>Mary,</hi> the Eſpouſed VVife of <hi>Joſeph;</hi> but
+<hi>Mary</hi> at firſt found <pb n="24" facs="tcp:151842:20"/>difficulty to receive the
+Meſſage the Angel brought, this Great and Myſterious Revelation of the
+Mind of God concerning her; and She was troubled at his Say<g ref="char:EOLhyphen"/>ing; and She caſt
+or reaſoned in her mind what manner of Salu<g ref="char:EOLhyphen"/>tation this ſhould be; after
+the Angel had given her a further account of his Meſſage, which was
+wonderful; She again asks, How can this thing be? in <hi>Luke</hi> 1.34. The
+Angel Condeſcends to Enlarge and to Diſcover the Myſtery more clearly;
+and in v. 35. <hi>And the Angel anſwered, and ſaid unto her, The Holy
+Ghoſt ſhall come upon thee, and the Power of the Higheſt ſhall
+Overſhadow thee. Therefore alſo that Holy Thing which ſhall be born of
+thee, ſhall be called the Son of God.</hi> This anſwer <hi>Mary</hi> could
+only receive by Faith and Intellectual Light: And to <pb n="25" facs="tcp:151842:20"/>ſtrengthen her Faith, he further tells her, <hi>With God all things
+are poſſible:</hi> What our Belief, com<g ref="char:EOLhyphen"/>monly called the Apoſtles Creed,
+ſaith of this Myſtery, is very Excellent, that <hi>he was conceived by the
+Power of the holy Ghoſt, in the Womb of the Virgin Mary:</hi> Doubtleſs the
+Subſtance of the Virgins own Body was the pu<g ref="char:EOLhyphen"/>rer for her being a Virgin, and
+a holy Woman, yet it was much purer when the holy Ghoſt came upon her, the
+Spirit of the living and Eternal God, the Virgin Wiſdom, the true Virgin
+Mo<g ref="char:EOLhyphen"/>ther, did not, as in the Birth of the World, produce the Sub<g ref="char:EOLhyphen"/>ſtance purely
+from her ſelf; this would have been Creation; but the holy Ghoſt did
+penetrate the Subſtance of the Virgin, and did purify and rariſy it, that
+it was a holy Thing indeed that was <pb n="26" facs="tcp:151842:21"/>born of her: It was a
+great Ho<g ref="char:EOLhyphen"/>nour and Priviledge the Virgin <hi>Mary</hi> was made Partaker of; and
+doubtleſs a good meaſure of the Spirit of God did abide upon her; but this
+power of the Spirit did not reſt upon her, but it did abide upon that holy
+thing which was born of her, our bleſſed Lord Jeſus: Now this miraculous
+Work, the Conception of our Lord, is the ſecond time the Spi<g ref="char:EOLhyphen"/>rit of God, the
+holy Ghoſt, per<g ref="char:EOLhyphen"/>formed the Office of a Mother in ſuch an immediate and
+extraor<g ref="char:EOLhyphen"/>dinary manner; and as the Con<g ref="char:EOLhyphen"/>ception was wonderful, ſo doubt<g ref="char:EOLhyphen"/>leſs
+the Thing conceived was ex<g ref="char:EOLhyphen"/>traordinary; the Body of our Lord was a very pure,
+and in a great meaſure a ſpiritual Body; and yet a true Body; for no
+Sub<g ref="char:EOLhyphen"/>ſtance is the leſs true, but the more ſo, for being Spiritual: The 
+<pb n="27" facs="tcp:151842:21"/>World, and all things in it, as it came immediately from
+the Spirit of God, in its firſt Crea<g ref="char:EOLhyphen"/>tion, was very good, and there<g ref="char:EOLhyphen"/>fore true
+and ſubſtantial, for no<g ref="char:EOLhyphen"/>thing can be Good, but what is True: And now I
+ſee how Truth, Being, and Goodneſs, are One: Words I have before heard, but
+never underſtood till now.</p>
+            <p>After the Fall, Man and the whole Creation ſunk more deep into
+Materiality, but thereby did not become a more real and ſub<g ref="char:EOLhyphen"/>ſtantial Being,
+but a more ſha<g ref="char:EOLhyphen"/>dowy one, as it went farther from the Light. Now Matter, when
+it is moſt dark, ſhadowy, and at a diſtance, is capable of being reduc'd
+to a ſpiritual ſtate, by the Power of God, through the Merits of Chriſt,
+by the Ope<g ref="char:EOLhyphen"/>ration of his Spirit; for he <hi>ſhall change our vile Bodies, and
+make <pb n="28" facs="tcp:151842:22"/>them like his glorious Body.</hi> Won<g ref="char:EOLhyphen"/>derful changes
+do paſs upon Mat<g ref="char:EOLhyphen"/>ter in this lower World, by Na<g ref="char:EOLhyphen"/>tural Productions and
+Alterati<g ref="char:EOLhyphen"/>ons, and alſo by Artificial ways. As I my ſelf have ſeen and
+hand<g ref="char:EOLhyphen"/>led Matter, changed from putri<g ref="char:EOLhyphen"/>fied, vile, ſtinking, to beautiful,
+ſweet, and in a degree rarified and refined; and I believe far greater things
+of this kind may be performed, than I have yet ſeen. And I know Subſtances
+freed, in any degree, from the clogs of Materiality, may per<g ref="char:EOLhyphen"/>form extraordinary
+things. How much more might the Body of our Saviour (that never was ſo
+ſtrongly fettered) perform Won<g ref="char:EOLhyphen"/>ders, while he was on Earth in the Body, after
+his Reſurrection, and now ſince his Aſcenſion, eſpecially being in
+all theſe vari<g ref="char:EOLhyphen"/>ous ſtates united to his Divinity: <pb n="29" facs="tcp:151842:22"/>The
+Body of our bleſſed Saviour is now in the bleſſed State of
+Glo<g ref="char:EOLhyphen"/>rification, and I will not diſpute what he can do; but I do not at all
+believe he will change this moſt glorious bright ſhining Bo<g ref="char:EOLhyphen"/>dy of his, into
+Fleſh, Blood and Bone, and give it us to eat, and to drink, raw, whole, with
+I know not how many Abſurdi<g ref="char:EOLhyphen"/>ties, that ſome profeſt Chriſtians dare to
+mention; but I hope this is far from any to believe, there is no need of this;
+the Fleſh profits nothing, the Spirit quick<g ref="char:EOLhyphen"/>ens; and except we do eat the
+Spiritual Fleſh, and drink the Spiritual Blood of Chriſt, we have no part
+in him: Not Fleſh and Blood in a more groſs ſence than our Saviour ever
+had to give us, but in ſuch a ſence as a ſpiritual Man by a ſpiritual
+Diſ<g ref="char:EOLhyphen"/>cerning may receive; <hi>Lord ever<g ref="char:EOLhyphen"/>more <pb n="30" facs="tcp:151842:23"/>give me this
+Bread;</hi> not on<g ref="char:EOLhyphen"/>ly two or three times a year, once a month, or once a week,
+or on<g ref="char:EOLhyphen"/>ly in a piece of Bread ſo quali<g ref="char:EOLhyphen"/>fied and bleſt, do I deſire it; but
+that it may be my daily Food, that I may live upon it: I can no more
+ſpiritually live without it a day, than I can live without my daily Bread: I
+deſire continually to feed upon the hidden Manna, and to drink the Wine of
+the Kingdom, and to feel more of that bleſſed Promiſe made good in me,
+that our bleſſed Jeſus gave forth to thoſe that believe on him, That
+<hi>out of their Bellies ſhall flow Fountains of Living Waters:</hi> I would
+have my ſpiritual Sences always exerciſed about ſpiritual Objects; my Eye
+ſtedfaſtly fix'd on my bleſſed Jeſus. Here I muſt ſet down a
+Love-Deſire and Brea<g ref="char:EOLhyphen"/>thing after Him.</p>
+            <pb n="31" facs="tcp:151842:23"/>
+            <lg>
+               <l>Ah bleſſed Jeſus! Let me ſee thy Face!</l>
+               <l>Let me draw near to thy moſt Holy Place:</l>
+               <l>With Wings of Eagles let me mount on High,</l>
+               <l>There to behold thy Bright Divi<g ref="char:EOLhyphen"/>nity.</l>
+               <l>Tho' I am here encompaſſed with Clay,</l>
+               <l>Let me behold the Dawning of thy Day.</l>
+               <l>Shine forth, O Lord; from the Center of my Heart</l>
+               <l>Let Light Divine fill me in every part.</l>
+               <l>O fill my Soul with thy Celeſtial Fire:</l>
+               <l>With thy pure Spirit do thou me now inſpire,</l>
+               <l>That I may ſing, and bleſs thy Holy Name,</l>
+               <l>And may return to thee thy own pure Flame.</l>
+               <pb n="32" facs="tcp:151842:24"/>
+               <l>I will return to thee, my Love, my All;</l>
+               <l>Be always ready to obey thy Call.</l>
+               <l>Write in my Heart the Royal Law of Love,</l>
+               <l>That whilſt Below I may be like thoſe Above;</l>
+               <l>Whoſe bleſt Employment is to love and ſing</l>
+               <l>Hallelujahs to their Heavenly King.</l>
+               <l>Now I will joyn with this moſt bleſ<g ref="char:EOLhyphen"/>ſed Quire;</l>
+               <l>With them I'll Praiſe, with them I will Admire.</l>
+               <l>O Holy, Holy is the Lord! for he</l>
+               <l>Gives Life from Death, he ſets the Pris'ner free.</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nbind my fetter'd Soul, that it may be</l>
+               <l>Above the Earth, and Materia<g ref="char:EOLhyphen"/>lity, <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <pb n="33" facs="tcp:151842:24"/>
+            <p>Let all the People praiſe thee, O God, let all the People
+praiſe thee; thy Saints ſhall bleſs thee. While I have a being, my Soul
+ſhall magnify thy Name; thou haſt done for me great things, and that my
+Soul knows right well: Tho' I am nothing, nor can do nothing, nor know no<g ref="char:EOLhyphen"/>thing
+but in thee and by thee; I cannot praiſe thee without thee; thou art my Life;
+thou haſt be<g ref="char:EOLhyphen"/>gotten me again to a lively hope; and through the Riches and
+free Grace of my God to a poor ſin<g ref="char:EOLhyphen"/>ful Creature, a worthleſs Worm, to me is
+this Grace given, to be<g ref="char:EOLhyphen"/>come the Child of God, and to know this third and
+laſt Work of the Spirit of God, in perform<g ref="char:EOLhyphen"/>ing the Office of a Mother, in
+making me partaker of the New Birth, and to know what it is to be born again,
+not of Water, nor <pb n="34" facs="tcp:151842:25"/>of Blood, but of the Spirit of the living
+and true God: Words are empty things, and periſh in their own ſound; but it
+is a bleſſed thing to be enabled with the ho<g ref="char:EOLhyphen"/>ly Apoſtles, to ſay,
+<hi>What we have ſeen, what our hands have handled, that declare we unto you,
+that ye may have Fellowſhip with us; and truly our Fellowſhip is with the
+Fa<g ref="char:EOLhyphen"/>ther, and with the Son, through the Holy Spirit.</hi> I tell ye from the
+Scriptures of Truth, from my own Experience, from the Wit<g ref="char:EOLhyphen"/>neſs of the Water,
+the Blood, and the Spirit, and theſe three agree in one, to bear witneſs on
+Earth, That there is no coming to God, nor being Partakers of the Re<g ref="char:EOLhyphen"/>demption
+purchaſed by Jeſus Chriſt, but by the Illumination and Operation of the
+Holy Spi<g ref="char:EOLhyphen"/>rit, that the Spirit of God may
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Office of a Holy Mo<g ref="char:EOLhyphen"/>ther 
+<pb n="35" facs="tcp:151842:25"/>in us, to bring forth <hi>Jeſus</hi> in Spirit in us,
+that Chriſt may be formed in us: The Spirit of God is the
+<hi>Jeruſalem</hi> that is from Above, that is Free, the Mother of us all,
+ſpoken of in the <hi>Reve<g ref="char:EOLhyphen"/>lations;</hi> this is the <hi>New Jeruſa<g ref="char:EOLhyphen"/>lem that
+comes down from God out of Heaven, the Bride, the Lambs Wife, that had made her
+ſelf rea<g ref="char:EOLhyphen"/>dy.</hi> When the Spirit of God hath finiſhed the Work upon the
+whole Church of God through<g ref="char:EOLhyphen"/>out, making it appear in the Eye of our Lord in
+Beauty, Unity, Purity, then will it be preſented as a Chaſte Virgin to
+Jeſus Chriſt. Then ſhe will appear <hi>Fair as the Moon, Clear as the
+Sun, Terrible as an Army with Banners.</hi> She will then partake of the
+ſuper<g ref="char:EOLhyphen"/>celeſtial Sun and Moon, and of the Seven Stars, the Seven Pro<g ref="char:EOLhyphen"/>perties
+of God. When the <pb n="36" facs="tcp:151842:26"/>Church is thus Beautified and Adorned, our
+Lord will ſay, <hi>Ariſe, my Fair One, and come away.</hi> Now this Work
+cannot be ac<g ref="char:EOLhyphen"/>compliſhed in the whole Church, till it is firſt performed in
+parti<g ref="char:EOLhyphen"/>cular Perſons, by the Uniting of whom, this Work is compleat<g ref="char:EOLhyphen"/>ed:
+Therefore we muſt all look to it, that this Work may be performed in our
+ſelves, that the great three-fold Work of the Spirit may be wrought out in
+us, the Diſpenſation of the Water, the Blood, and the Fire. Firſt, We
+muſt know the Waſhing with pure Water, the Purging our Conſciences from
+<hi>dead works, that we may ſerve the living God:</hi> We muſt know alſo
+the ſhed<g ref="char:EOLhyphen"/>ding of Blood <hi>in us,</hi> as well as <hi>for</hi> us, the
+ſlaying our own Thoughts and Imaginations; we muſt not ſpare any thing of
+<pb n="37" facs="tcp:151842:26"/>ſelf-hood, not <hi>Agag</hi> and the choiceſt beaſts;
+we muſt alſo witneſs the Spirit of Judgment and Burning, the Spirit
+ſitting like a Refiners Fire, till at laſt we ſhall find and feel a
+Refreſh<g ref="char:EOLhyphen"/>ing Warmth and Heat: a being Baptized with the Holy Ghoſt and with
+Fire; this we muſt feel before we can come to dwell with Everlaſting
+Burning, <hi>for our God is a Conſuming Fire;</hi> ſhall we ſet the Hay
+and Stubble in Battle Array againſt Him, He will paſs through and Burn it,
+nothing but what is Pure muſt Remain; if we would dwell in the Holy Hill of
+God, and abide in his Tabernacle, we muſt have Clean Hands &amp; Pure Hearts.
+The three great Diſpenſations of God with the great World, doth a<g ref="char:EOLhyphen"/>gree with
+the workings of his Spirit in us; the Deluge of Wa<g ref="char:EOLhyphen"/>ter <pb n="38" facs="tcp:151842:27"/>was
+the Firſt of theſe, the Apoſtle ſpeaking of it, ſaith, <hi>The like
+figure whereunto is Baptiſm, not only outward Baptiſm with water which
+taketh away the filthi<g ref="char:EOLhyphen"/>neſs of the Fleſh:</hi> but it ſignifies the being
+Baptized into Chriſt, into his Death and Sufferings, that being Buryed with
+him in Baptiſm, being Dead with Chriſt we alſo may Ariſe with him, and
+know the Power of his Re<g ref="char:EOLhyphen"/>ſurrection, that we being Riſen with Chriſt, may
+ſeek thoſe things which are Above, where Chriſt is at the right hand of
+God: The Second Great Diſpen<g ref="char:EOLhyphen"/>ſation with the Great World was, The Slaying
+of Beaſts, the Shedding of Blood, without which there is no Remiſſion;
+but this was not only the Blood of Bulls and Goats, that would not do; for the
+Law is but a <pb n="39" facs="tcp:151842:27"/>Shadow of Good Things to come; for it is
+impoſſible that the Blood of Bulls and Goats ſhould take away Sins; but
+this great work was done by the Shedding the Precious Blood of Chriſt; the
+Firſt was done away, that he might eſtabliſh the Se<g ref="char:EOLhyphen"/>cond; the Sacrifice
+of the Law, could not make the comers there<g ref="char:EOLhyphen"/>unto Perfect, but Chriſt by one
+Offering hath Perfected for ever them that are Sanctified; by the will of God
+we are Sanctified, thorough the Offering of the Body of <hi>Jeſus,</hi> and
+thoſe that are Members of his Body, muſt alſo be Perfected through
+Sufferings, when we come to know what it is to have the word of God Quick and
+Powerful in us, Di<g ref="char:EOLhyphen"/>viding between the Marrow and the Bone, we ſhall know what
+this means; there will be Cut<g ref="char:EOLhyphen"/>ting <pb n="40" facs="tcp:151842:28"/>off Right Hands,
+Plucking out Right Eyes, Slaying and Crucifying the Old Man, with the Affection
+and Luſts; This is hard work: Ah my God! let me give up all to it, I would
+not ſpare any thing in me; let this work go on in me to the making an end of
+Sin, and the Finiſhing tranſgreſſion, that every thought may be brought
+into Subjection to <hi>Jeſus Chriſt,</hi> who I would have to Rule and
+Reign till all his Enemies are brought under: I Bleſs and Praiſe thy Great
+and Glorious Name O Lord my God, for what thou haſt done for me and in me; I
+Bow before Thee, and Adore him that Sits upon the Throne, and the Lamb that was
+Slain, who was Dead and is Alive, and Lives and Reigns for Ever. The Third and
+Laſt Great and Univerſal Diſpenſation <pb n="41" facs="tcp:151842:28"/>of God with
+the Great World, will be the Fiery Tryal, when the Elements ſhall Melt with
+Fervent Heat, and the Earth and all things in it that is Cum<g ref="char:EOLhyphen"/>buſtible,
+ſhall be Burnt up; that which is Pure will Remain, when the Goldſmith puts
+the Droſſy Gold into the Fire, ſome that may not know the nature of it,
+may wonder that he ſhould burn his Gold, but he knows though the Droſs will
+be burnt, the Gold will remain and come forth more bright; ſo will it be with
+the works of God, not only his Throne, but that which now is his Foot-ſtool,
+ſhall be Pure Gold, Clear as Chryſtal; he that reads let him underſtand
+what the Spirit ſaith. But our great Work is to Cry to the Lord, that the
+Fiery Work of his Spirit may paſs upon us, before this <pb n="42" facs="tcp:151842:29"/>great and terrible day of the Lord come; for this Day will try eve<g ref="char:EOLhyphen"/>ry
+Mans Work, of what ſort it is; and the Hay and Stubble muſt be burnt up,
+when our Lord ſhall appear in Flames of Fire, to render Vengeance on all
+thoſe that know him not, and obey not the Goſpel. To fit us for this great
+Day, the Lord ſends his Spirit of Judgment and Burn<g ref="char:EOLhyphen"/>ing into us; and this Day
+of the Lord burns like an Oven; his Eyes are a Flame of Fire, who looks into
+us; and we are all naked and bare before the Eyes of him with whom we have to
+do: Let us not like <hi>Adam</hi> hide our ſelves, but cry out, <hi>Search me
+and try me, O God.</hi> Let us with <hi>Moſes</hi> enter into the
+Dark<g ref="char:EOLhyphen"/>neſs, and the Fire; God is in the Fire, and tho' it may be terrible,
+ſhrink not at it, and endure, as ſee<g ref="char:EOLhyphen"/>ing <pb n="43" facs="tcp:151842:29"/>him that is
+inviſible, who will appear to be with thee in it, as with the Three Children
+in the fiery Furnace, when thou art brought to endure, as they did.
+<hi>Elijah</hi> was able to endure the fiery Chariot, having been filled with
+the Spirit of the Lord, that pure fiery Spirit had Tinctured him throughout,
+and made him able to endure the fire. Ah my God, I am now in thy Furnace, and
+have been ſome time: Let me not think it ſtrange concern<g ref="char:EOLhyphen"/>ing the Fiery
+Trial, as if ſome ſtrange thing happened to me; make me to endure the time
+and degree of heat thou ſeeſt beſt for me: I would be Gold ſeven times
+refined; this I know cannot be done, without entering into the Furnace again
+and again: Lord continue this Work, till thou haſt finiſhed Sin, and made
+an end of <pb n="44" facs="tcp:151842:30"/>Tranſgreſſion: Purge me, that I may bring
+forth more Fruit, Fruits of Righteouſneſs, Fruits of Renown, that there may
+be Plants in me of thy own Right Hand Planting, that I may be ready to every
+good Word and Work. This do thou do for me, and do not forſake me.</p>
+            <lg>
+               <head>A Breathing after the holy Spirit of God.</head>
+               <l>
+                  <hi>Spring up, O Well, now ſpring in me,</hi>
+               </l>
+               <l>
+                  <hi>Let me Refreſhed by thy Waters be.</hi>
+               </l>
+               <l>
+                  <hi>I feel thy Holy Quickning Breath,</hi>
+               </l>
+               <l>
+                  <hi>Which brings me from the Gates of Death:</hi>
+               </l>
+               <l>
+                  <hi>Thy Wind blows freely, thy Wa<g ref="char:EOLhyphen"/>ter's ſweet;</hi>
+               </l>
+               <l>
+                  <hi>The Power of thy Flames are great.</hi>
+               </l>
+               <pb n="45" facs="tcp:151842:30"/>
+               <l>
+                  <hi>Thy Breath, thy Fire, thy Water-Spring.</hi>
+               </l>
+               <l>
+                  <hi>Is the Life, the Birth of every thing:</hi>
+               </l>
+               <l>
+                  <hi>Outward and Inward, both do grow</hi>
+               </l>
+               <l>
+                  <hi>y thy Pure Water's Over-flow.</hi>
+               </l>
+               <l>
+                  <hi>If thou with draw'ſt thy Quickning Breath,</hi>
+               </l>
+               <l>
+                  <hi>There's nought remains in me but Death.</hi>
+               </l>
+               <l>
+                  <hi>Do thou with Fire me now baptize,</hi>
+               </l>
+               <l>
+                  <hi>That I may be a whole Burnt Sacri<g ref="char:EOLhyphen"/>fice.</hi>
+               </l>
+               <l>
+                  <hi>And into Aſhes I would turn,</hi>
+               </l>
+               <l>
+                  <hi>If thou, O Lord, wouldſt be my <g ref="char:V">Ʋ</g>rn.</hi>
+               </l>
+            </lg>
+            <p>Glory be to the Father, and to the Son, by the holy Spirit, now
+and for ever. <hi>Amen, Amen.</hi>
+            </p>
+            <p>Some may ask me, What Right haſt thou to Worſhip be<g ref="char:EOLhyphen"/>fore the
+Altar, to ſpeak or write <pb n="46" facs="tcp:151842:31"/>of Divine Things? Thou art not
+qualified with Learning, and Ordination of ſome great learn<g ref="char:EOLhyphen"/>ed Man. I ſay,
+'Tis true, I am neither Prophet, nor Prophets Son, in this ſence; I am not of
+the Aaronical or Levitical Prieſt<g ref="char:EOLhyphen"/>hood, nor capable of it: How<g ref="char:EOLhyphen"/>ever, my God
+hath made me a King and a Prieſt to him, in ſome degree; and I doubt not,
+but in my bleſſed Jeſus, by his Spirit, I may offer ſome acceptable
+Sacri<g ref="char:EOLhyphen"/>fice; <hi>The Sacrifice of a broken and a contrite Heart, thou wilt not
+de<g ref="char:EOLhyphen"/>ſpiſe, O my God.</hi> My bleſſed and glorious <hi>Jeſus,</hi> was
+not a Prieſt af<g ref="char:EOLhyphen"/>ter the Order of the <hi>Aaronical</hi> and
+<hi>Levitical</hi> Prieſthood, but after the Order of <hi>Melchizedeck,</hi>
+who was Prieſt of the moſt high God, to whom <hi>Aaron</hi> paid Tythes in
+the Loyns of his Father <hi>Abra<g ref="char:EOLhyphen"/>ham:</hi> And this <hi>Melchizedeck</hi> was 
+<pb n="47" facs="tcp:151842:31"/>King of Righteouſneſs, King of Peace; 'tis an excellent
+intro<g ref="char:EOLhyphen"/>duction to the Prieſthood, to be made ſo within our Selves; this
+Temper of Mind, doth not only introduce, but always ac<g ref="char:EOLhyphen"/>company the True
+Prieſthood, who are made Prieſts unto God by <hi>Jeſus Chriſt</hi> our
+Saviour, who was made a Prieſt after the Order of Melchiſedeck, and bore a
+reſemblance with him as he was without Father and without Mother. Which
+words, wherein <hi>Melchizedeck</hi> was a type of <hi>Chriſt,</hi> I have
+not upon me to explain as it relates to our Saviour; but in this ſence, as it
+reſpects my Self, I am without Father, to appoint me to the Prieſthood, I
+mean without Man to do this; without Mother, as any Viſible Church (for ought
+I know) that will own me; yet I am not very <pb n="48" facs="tcp:151842:32"/>ſolicitous
+for this, if I may be of the Church of the Firſt Born, whoſe Names are
+written in Heaven; I would act as a Free-Deniſon of this City, who is my True
+Mother; I would act by that Free Spirit that Teaches and Guides her Children.
+And it is a Promiſe to her, that all her Children ſhall be Taught of God,
+and Great ſhall be the Peace of her Children. O my God, do thou thus Guide me
+and Teach me, that being Born of the Spirit, I may be led by the Spirit, and
+know the Truth as it is in <hi>Jeſus;</hi> though I am in a Wilderneſs,
+full of Difficulties, let me not be without a Guide; if Thou leaveſt me a
+moment, I Slip, I Fall. I find the way Strait; the farther I go in it, the more
+Strait, but alſo Pleaſant; I can Truly, Feelingly ſay, Lord, 
+<pb n="49" facs="tcp:151842:32"/>
+               <hi>All thy ways are pleaſantneſs, and all thy paths
+are peace.</hi> I would not wander about to change my way: do Thou help me to
+make ſtrait ſteps to my feet; help me to Travel onward through all
+Difficulties, having my Loyns girt, my Lamp trimmed, ready to meet my Lord, in
+that City of Solemnities where I would always Praiſe thee, always A<g ref="char:EOLhyphen"/>dore
+thee, always Love thee, Thou Great God of Sabbaths for ever.</p>
+            <p>Some may ſay, they fear I do not enough Value Ordianances, I
+ſeem ſo indifferent about Or<g ref="char:EOLhyphen"/>dination: I ſay, the Spirit of the Prophets,
+are ſubject to the Prophets; there are Babes in Chriſt, there are alſo
+Young Men and Fathers or Elders, ſuch whoſe Age, Long Experience in the
+things of God, being filled <pb n="50" facs="tcp:151842:33"/>with the Spirit of Wiſdom,
+Un<g ref="char:EOLhyphen"/>derſtanding and a Sound Mind, makes them very Venerable; ſuch who have
+known him that is from the Begining, who have the Spirit of the Holy God living
+in them, who can Unfold Myſte<g ref="char:EOLhyphen"/>ries and Reveal Secrets; ſuch who not only
+Speak, but by the Power of God are Enabled to Effect ſomething in the minds
+of Men, to convey of the ſame Spirit they have Received. It is a Na<g ref="char:EOLhyphen"/>tural
+Maxim, <hi>Every Like produ<g ref="char:EOLhyphen"/>ceth its Like:</hi> It is true in Spi<g ref="char:EOLhyphen"/>ritual
+Things, the Apoſtles and Prophets had this Power, and I doubt not but there
+are ſome have the ſame Qualifications now; ſuch indeed who feel
+themſelves empty of ſuch Power and Vertue, are ready to doubt of this, and
+poſitively ſometimes to ſay, theſe Things are Ceaſed, 
+<pb n="51" facs="tcp:151842:33"/>we muſt not expect them now; this apprehenſion of
+theirs muſt needs hinder their receiving this Great Bleſſing; and I know
+no ground they have for it from Scripture; our Saviour tells his People, He
+will be with them always to the end of the World; He promiſed the Spirit to
+Teach them, to Guide them, to Aſſiſt them to do Great and Mighty Works;
+our Saviour no where ſays, he will take away this Bleſſing again; the
+Prophets had the Spirit in an extraordina<g ref="char:EOLhyphen"/>ry manner under the Diſpenſa<g ref="char:EOLhyphen"/>tion
+of the Law, they performed Wonders, they had Servants, and ſuch as were
+called Sons of the Prophets under their Tuiti<g ref="char:EOLhyphen"/>on, whom they Inſtructed in the
+Sacred Myſteries, to whom they conveyed much of the Spi<g ref="char:EOLhyphen"/>rit, as
+<hi>Elijah</hi> to <hi>Eliſha,</hi> by caſt<g ref="char:EOLhyphen"/>ing <pb n="52" facs="tcp:151842:34"/>his
+Mantle upon him: let not the pretenſions of any (in our time) to this, who
+have not been real Poſſeſſors of it, make us doubt the thing, no more
+then we doubt of the Truth of Chriſti<g ref="char:EOLhyphen"/>an Religion, becauſe we ſee ſo
+many who in Words Profeſs Chriſt, but in Works Deny him. This is a certain
+ſign of a True Prophet, He is one who fears God, hates Covetouſneſs; he
+Feeds the People with Know<g ref="char:EOLhyphen"/>ledge and Underſtanding; the Love of Money is the
+root of all Evil: now let all Chriſtians, eſ<g ref="char:EOLhyphen"/>pecially ſuch as profeſs
+to be Prophets, deſire that the Ax may be laid to this Root of the Tree; I
+greatly Value the Sage Advice, Counſel, Bleſſing of ſuch a Perſon; I
+expect their Bleſſing ſhould convey fome real Advan<g ref="char:EOLhyphen"/>tage as the
+Patriarchs of old did; <pb n="53" facs="tcp:151842:34"/>if ſuch ſhould deliver a
+Perſon up to Satan, he may expect to feel the Effects of it; but when
+Sentence is pronounced by ſuch as have Word without Power, upon a miſtaken
+ground; a Perſon againſt whom ſuch a Sentence is pronounced, feels not
+the ſad Effect, but it may be the contrary, more of the Spirit of God then
+ever. But if I am o<g ref="char:EOLhyphen"/>vertaken with a fault, I hope one that is Spiritual may
+Reſtore me again in the Spirit of Meek<g ref="char:EOLhyphen"/>neſs; if a Spiritual Man who hath a
+Diſcerning, deſire me to Speak or Write, it hath a great Authority with me;
+if ſuch an one ſay to me forbear, it hath great Power; however I have not
+Conſulted any in the begin<g ref="char:EOLhyphen"/>ing of theſe Writings, nor had either Counſel
+or Aſſiſtance of any Man, yet when I have writ<g ref="char:EOLhyphen"/>ten, <pb n="54" facs="tcp:151842:35"/>I
+ſubmit them to the Judg<g ref="char:EOLhyphen"/>ment of ſuch; if ſuch a one gives me a piece of
+Bread, a Cup of Wine, or of Cold Water, I believe he will have a Diſciples
+Reward, and I a Diſciples Bleſſing; if ſuch an one goes about to
+inſtruct me in Sacred Myſteries, I hearken with great Attention, knowing he
+hath a deep ſight into the Wonders of God manifeſted in the Creatures, for
+by the things that are made, are ſeen his Eternal Power and Godhead.</p>
+            <p>Such Perſons live not in this World, ſo full of Wiſdom and
+Beauty, only to look on the out<g ref="char:EOLhyphen"/>ſides of things, and only to reaſon about
+them; why this is ſo, and that ſo; this Hot and that Cold, only for
+Diſcourſe ſake; no, they Live in the World as Prieſts in a Temple, and
+Praiſe God for <pb n="55" facs="tcp:151842:35"/>the things that are, as <hi>Hermes</hi>
+ſpeaks; they have an Eye opened by the Spirit of God, by which they have an
+Intellectual Sight into the Creatures; and thereby have a power given alſo to
+alter and change them, and to turn their Inſides Out; to make the Light which
+was hid in the Center, appear through its out<g ref="char:EOLhyphen"/>ward Shell, the dark Vail and
+Shadowy Covering, it hath upon it; and thereby regain the Ho<g ref="char:EOLhyphen"/>nourable Authority
+Man had given him at firſt of Subjecting the Creatures to his Rule, and
+making them ſerve his Neceſſi<g ref="char:EOLhyphen"/>ties; tho at preſent, Perſons thus
+Highly Endowed with Wiſdom Divine &amp; Natural (if I may uſe that
+diſtinction at all, both com<g ref="char:EOLhyphen"/>ing from one root) are obſcure and not much
+known in the World; yet I firmly believe <pb n="56" facs="tcp:151842:36"/>the time is very
+near, when the World ſhall be Bleſt with the knowledge of their Perſons,
+and the opening the Treaſures Wiſ<g ref="char:EOLhyphen"/>dom hath furniſhed them with: Now to
+the Honourable Fathers and Worthy Brothers of this Happy Society, who are thus
+Led and Taught, wherever you are through the whole World, I ſend greeting;
+you are all my Fathers, you are all my Maſters and Bro<g ref="char:EOLhyphen"/>thers, particularly my
+Maſter <hi>T. S.</hi> I humbly deſire to be received by you as a Pupil, as
+a Servant to Waſh your feet: how<g ref="char:EOLhyphen"/>ever, ſuffer this Word of Exhor<g ref="char:EOLhyphen"/>tation
+from me at preſent; let us all <hi>ſing the Hymn of Silence</hi> within our
+ſelves, till we are permitted to utter the Praiſe of the Great
+<hi>Jehovah</hi> in the Great Congregation, ſo that our Voice may be heard
+through the whole <pb n="57" facs="tcp:151842:36"/>earth, for the whole World is our Temple,
+our Church; and we deſire to joyn with every Creature, things in Heaven,
+things on Earth, and under the Earth, to praiſe the All-glorious GOD that
+created all things; by whom and through whom are all things. To whom be all
+Glo<g ref="char:EOLhyphen"/>ry, World without End. <hi>Amen.</hi>
+            </p>
+            <lg>
+               <l>My Soul ſhall ſing Jehovah's Praiſe;</l>
+               <l>Let that Great Name my Spirit raiſe;</l>
+               <l>That I may with the Angels joyn,</l>
+               <l>To ſing a Hymn that is Divine.</l>
+               <l>That I may reach the Seraphick Quire,</l>
+               <l>Being quickned with the ſame pure Fire</l>
+               <l>That makes them ſing, and makes them love,</l>
+               <l>In their Harmonious Orbs above.</l>
+               <pb n="56" facs="tcp:151842:37"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="57" facs="tcp:151842:37"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="58" facs="tcp:151842:38"/>
+               <l>Let ſuch high Praiſe in Heaven abound,</l>
+               <l>May make Earth eccho to the ſound;</l>
+               <l>That all the Creatures her below,</l>
+               <l>The Mighty Power of Love may know.</l>
+               <l>Good Will to Man ſo doth appear,</l>
+               <l>As makes him know his GOD is near,</l>
+               <l>To ſave poor Mankind'd fallen Race,</l>
+               <l>And bring him to his Native Place.</l>
+            </lg>
+         </div>
+         <div n="2" type="part">
+            <pb n="59" facs="tcp:151842:38"/>
+            <head>The Second Part.</head>
+            <head>SOME Diſcoveries of the My<g ref="char:EOLhyphen"/>ſteries of the Crea<g ref="char:EOLhyphen"/>tion in the
+Six Days Work, and the Se<g ref="char:EOLhyphen"/>venth Days Reſt.</head>
+            <p>O Eternal Father of Life and Power, how ſweet a Sabbath haſt
+thou made this to me, in giving my Soul Reſt and Repoſe in thy ſelf!
+Bleſſed God of Sabaoth! I find Reſt in thee is ſweet, ſince thou
+haſt made that bleſſed Promiſe <pb n="60" facs="tcp:151842:39"/>good, to ſuch as
+are weary and heavy laden, that in coming to thee they find reſt to their
+Souls. Dear and bleſſed JESUS! thou Shepherd and Biſhop of my Soul, lead
+me in thy green Paſtures, by the ſtill Waters of Quietneſs, till thou
+doſt make me to know where thou makeſt thy Flocks to reſt at Noon; that
+the hotteſt Affliction, the moſt fiery Tryal, may not interrupt my ſweet
+Re<g ref="char:EOLhyphen"/>poſe in thee: Let me no more ſeek Reſt and Satisfaction in the
+Creature, where it is not to be had; let me no more ſeek the Li<g ref="char:EOLhyphen"/>ving
+amongſt the Dead, but as the World is crucified unto me, let me be crucified
+unto the World. Lord help me to dye daily, to live continually in holy
+Reſignation, that when thou ſhalt call me to lay down this houſe of Clay,
+this Earthly Ta<g ref="char:EOLhyphen"/>bernacle, <pb n="61" facs="tcp:151842:39"/>I may be enabled to ſay with my
+bleſſed Saviour, <hi>No man takes away my Life;</hi> if it is by the hand
+of Man, or what<g ref="char:EOLhyphen"/>ever other way, I may freely lay down my Life, and be willing
+to be Uncloathed, that I may be Cloathed upon with my Houſe from Heaven, that
+being Cloa<g ref="char:EOLhyphen"/>thed upon, I may not be found Naked; but may be ready to enter into
+the Reſt that remains for the People of God; into that good Land, the
+heavenly <hi>Canaan,</hi> where ſorrow and ſighing ſhall flee away, where
+I may ſing the Song of <hi>Moſes</hi> and of the Lamb, who is worthy of
+Praiſe and Adoration for ever.</p>
+            <p>The 29th of <hi>July</hi> 1688. I may ſay with the holy St.
+<hi>John, I was in the Spirit on the Sabbath Day, on the Lords Day;</hi> &amp;
+he was plea<g ref="char:EOLhyphen"/>ſed <pb n="62" facs="tcp:151842:40"/>to ſhow me, as before I had ſeen, how
+Stillneſs and Reſt is the true ground of Motion, in God himſelf, and of
+all true, good, regular Motion of the Creature, ſo all ſuch Motion is in
+order to Reſt: God himſelf, after the ſix Days Work, reſted on the
+Seventh Day; ſo the Lord bleſſed the Seventh Day. And it is a bleſſed
+thing indeed, when we come in any degree to this perfect Number Seven: The
+Number of the Beaſt is Six hun<g ref="char:EOLhyphen"/>dred Sixty Six; and if you add more Sixes, it
+is but the Num<g ref="char:EOLhyphen"/>ber of the Beaſt, or at moſt but the Number of a Man, it
+cannot be a perfect Number; no, it is the Number Seven is the perfect Number,
+when we come to know in our own Souls the ſweet Reſt, to reſt from our
+Labours, as God did from his, when we die <pb n="63" facs="tcp:151842:40"/>in the Lord, and
+reſt from our Labours, and our Works do fol<g ref="char:EOLhyphen"/>low us. He that can underſtand,
+let him underſtand. This 30th of <hi>July</hi> the ſweet Teachings a<g ref="char:EOLhyphen"/>bide
+upon me, and I muſt follow my Guide, who now ſhews me ſomething of the
+Six Days work, in opening the Firſt Chapter of <hi>Geneſis</hi> to me,
+thus: <hi>In the be<g ref="char:EOLhyphen"/>ginning, In principio,</hi> in the beginning or firſt
+Manifeſtation of this Principle, <hi>Elohim</hi> the Mighty God of Power,
+<hi>Created,</hi> made out of Nothing, ſome ſay: I know not what Nothing
+their Imaginations frame to them; but I am ſure, when about Seventeen or
+Eighteen years of Age, I look'd into their Expoſitions, Annotations,
+Commentaries, all I could find, no other account was given; but <hi>made out of
+No<g ref="char:EOLhyphen"/>thing,</hi> which left me not at all ſa<g ref="char:EOLhyphen"/>tisfied; <pb n="64" facs="tcp:151842:41"/>but
+the Lord is pleaſed to open to me one Scripture by another, <hi>The things
+that are made are not made of things that do ap<g ref="char:EOLhyphen"/>pear;</hi> they are made of
+Nothing that does appear, but of Some<g ref="char:EOLhyphen"/>thing that doth not appear, <hi>viz.</hi>
+of that which is inviſible. In the beginning, God made, created, produced the
+Heavens and the Earth; the <hi>ſubſtance</hi> of which both were formed,
+but the Earth was then without Form, and Dark<g ref="char:EOLhyphen"/>neſs was upon the Face of the
+Deep: Some repreſent this Chaos methinks but oddly, call<g ref="char:EOLhyphen"/>ing it <hi>rude
+Chaos,</hi> where all things lay, they ſay, confuſed: I will not cavil
+about Words, but this gives a ſtrange Repreſentation of this Principle, out
+of which ſuch a beautiful and orderly World was produced. Now to me, this
+very Chaos hath a Beauty in it: <pb n="65" facs="tcp:151842:41"/>I cannot but ſay, O
+beautiful Darkneſs! O holy Night! The Mother of all things! In this dark
+Chariot doth the Omnipo<g ref="char:EOLhyphen"/>tent Creator, the Great <hi>Jehovah,</hi> ride forth
+magnificently; and when the Vail was drawn away, the Light appear'd; <hi>And
+God ſaid, Let there be Light, and there was Light:</hi> This Light was
+be<g ref="char:EOLhyphen"/>fore hid in the Darkneſs, till it it was manifeſted at the Com<g ref="char:EOLhyphen"/>mand of
+God; the Light was mingled with the Darkneſs in the Chaos, and innumerable
+o<g ref="char:EOLhyphen"/>ther ſeeming Contrarieties; but not confuſed, none of God's Creatures can
+be ſo; for God is a God of Order, not of Confu<g ref="char:EOLhyphen"/>ſion; his Works are
+performed with the ſwift motion, agility, powerful operation of a moſt
+glo<g ref="char:EOLhyphen"/>rious Spirit; and alſo as a wiſe Architect with order, weight and 
+<pb n="66" facs="tcp:151842:42"/>ſure proportionates all things, and made the lower Orders
+of things anſwer to their Patterns in the Heavenly: A man doth not make any
+thing but what hath ſome ſort of ſpiritual exiſt<g ref="char:EOLhyphen"/>ence in his Mind,
+before it can be produc'd into Out-working with his hands: Infinitely,
+tranſcen<g ref="char:EOLhyphen"/>dently more hath all things ſub<g ref="char:EOLhyphen"/>ſtantially, really a being in
+the Eternal Idea's in the Divine Mind. Man hath power over the Creatures, to
+change and al<g ref="char:EOLhyphen"/>ter the Subſtance, but he hath not power to make the
+ſubſtance, not the leaſt part of it, but God produceth the ſubſtance
+&amp; form, and all from himſelf: The Light of this Creation is a Reflexion
+of the Superceleſtial Light. <hi>And God ſaw the Light that it was good,
+and God divided the Light from the Darkneſs; and God called 
+<pb n="67" facs="tcp:151842:42"/>the Light Day, and the Darkneſs he called Night; and the
+Evening and the Morning were the firſt Day.</hi> When the Light was
+ſeparated from the Darkneſs, and brought forth into a diſtinct
+Exiſtence, this was the end of the Firſt Day's Work: There is a
+Philoſophical Work which is an Excellent Fi<g ref="char:EOLhyphen"/>gure of this Firſt Days Work;
+When an enlightned Man, a wiſe Man, takes ſome part of the Cre<g ref="char:EOLhyphen"/>ation, of
+the Subſtance or Mat<g ref="char:EOLhyphen"/>ter, and cauſeth it to paſs into Death and
+Putrifaction, it comes to be like the Chaos, of which it was once a part, it
+goes into a ſtate of Darkneſs and Blackneſs; but the wiſe Man is not
+frighted at this ſight, but knows this doth neceſſarily precede the
+Light, and that it doth include the Light; and if he continues his Operation,
+he knows he ſhall certainly ſee a <pb n="68" facs="tcp:151842:43"/>bright white Light
+appear, and there will be a ſeparation be<g ref="char:EOLhyphen"/>tween this Light and Darkneſs,
+which is an end of his firſt Days Work. This alſo is a Figure of the New
+Creation, which God works in bringing Man to him<g ref="char:EOLhyphen"/>ſelf out of the fallen
+ſtate, which is done by bringing Man to a ſtate of Dying; he muſt be
+brought to a ſtate of Contrition, Crucifixion, a ſpiritual Dying with
+Chriſt, Dying to Sin, Dy<g ref="char:EOLhyphen"/>ing to Self; now this is a ſtate of Darkneſs and
+of the Shadow of Death indeed: But the Spirit of God moves upon theſe dark
+Wa<g ref="char:EOLhyphen"/>ters, upon this Deep, and cauſ<g ref="char:EOLhyphen"/>eth the Light to appear, he illu<g ref="char:EOLhyphen"/>minates
+the Man, cauſeth the Light to ſhine out of Ob<g ref="char:EOLhyphen"/>ſecurity; for this Light is
+in the Darkneſs, though the Darkneſs comprehendeth it not: Now this 
+<pb n="69" facs="tcp:151842:43"/>Enlightning, this ſeparation of the Light from the
+Darkneſs, is the Firſt Day's Work of the Spi<g ref="char:EOLhyphen"/>rit of God in the Minds of
+Men. Thus there is an Excellent Agree<g ref="char:EOLhyphen"/>ment and Harmony in all the Works and
+Ways of God. Let none think it ſtrange, that I make uſe of Natural and
+Artificial things, to explain Divine: Our Lord Jeſus made uſe not only of
+Natural Productions, but of Ar<g ref="char:EOLhyphen"/>tificial Employments, as Meta<g ref="char:EOLhyphen"/>phors; he mentions
+the Sower of Seed, the Vine-Dreſſer, the Woman's hiding her Leaven in three
+Meaſures of Meal till all is leavened. This laſt Parable hath an excellent
+Significancy in it of things Divine, Natural, and Philoſophical, or
+Artificial; but it is now, as it was then, to ſome it is given to know the
+Myſteries of the Kingdom, to others it is <pb n="70" facs="tcp:151842:44"/>not given. But
+there are ſome now who think ſo high of them<g ref="char:EOLhyphen"/>ſelves, that it is below
+them to look into the Creatures; not<g ref="char:EOLhyphen"/>withſtanding the Great and Mighty
+<hi>Jehovah</hi> did condeſcend to make them, and doth preſerve them every
+moment; and takes ſuch care, that the meaneſt of them falls not to the
+ground without the Will of our heaven<g ref="char:EOLhyphen"/>ly Father.</p>
+            <p>I am now to ſay ſomething of the Second Day's Work of
+Cre<g ref="char:EOLhyphen"/>ation. <hi>And God ſaid, Let there be a Firmament in the midſt of the
+Wa<g ref="char:EOLhyphen"/>ters, and let it divide the Waters from the Waters; and God made the
+Firmament, and divided the Waters which were under the Fir<g ref="char:EOLhyphen"/>mament, from the
+Waters which were above the Firmament, and it was ſo; and God called the
+Firma<g ref="char:EOLhyphen"/>ment Heaven: And the Even<g ref="char:EOLhyphen"/>ing <pb n="71" facs="tcp:151842:44"/>and the Morning were
+the Se<g ref="char:EOLhyphen"/>cond Day.</hi>
+            </p>
+            <p>After the Light was ſeparated from the Darkneſs, in the
+Firſt Day's Work, the Second Day the Light was Rarified and Expand<g ref="char:EOLhyphen"/>ed, it was
+extended or ſpread forth to a wonderful Circumfe<g ref="char:EOLhyphen"/>rence, and ſo it became
+the Fir<g ref="char:EOLhyphen"/>mament, which God called Hea<g ref="char:EOLhyphen"/>ven. It is ſaid, <hi>The Lord
+ſtretch<g ref="char:EOLhyphen"/>ed out the Heavens as a Curtain, as a Tent to dwell in:</hi> Thus as
+a wiſe Builder, a curious Architect, the Lord covers the top of the
+Stru<g ref="char:EOLhyphen"/>cture before he finiſheth the cu<g ref="char:EOLhyphen"/>rious In works: The Chaos was a Watry
+Subſtance, an Unctuous Humidity, the Principle of the Water was predominant;
+there<g ref="char:EOLhyphen"/>fore the Scripture here calls it <hi>Water,</hi> ſaying, <hi>The Spirit
+of God moved upon the face of the Waters.</hi> Fire and Water are the two
+moſt <pb n="72" facs="tcp:151842:45"/>ſubſtantial Principles, Earth and Air are
+produced from them; Water is the Root and Begin<g ref="char:EOLhyphen"/>ning, Fire the Perfection and
+End of all things. The Unctuouſ<g ref="char:EOLhyphen"/>neſs, Oylineſs of the Chaos, pro<g ref="char:EOLhyphen"/>duc'd
+the Light, or rather was the Light and Fire; the Water was in this beginning of
+things the greateſt quantity, till the Fire gets the Predominancy; the
+Fir<g ref="char:EOLhyphen"/>mament, the Light and Heat di<g ref="char:EOLhyphen"/>vided the Waters from the Wa<g ref="char:EOLhyphen"/>ters; thus a
+vaſt quantity of Wa<g ref="char:EOLhyphen"/>ters was moſt wiſely placed, part of it below the
+Fire, that its piercing ſubſtance might not with its fiery heat penetrate
+the Earth too ſwiftly with its quick motion, till the Earth was brought more
+towards a ſtate of Perfection; the Firmament was placed between the Waters to
+Concoct and Ripen them, and to <pb n="73" facs="tcp:151842:45"/>bring their Watry into a
+Fiery Subſtance; the Oleous Quality of the Chaos was Fire, but when it was
+expanded into the Firma<g ref="char:EOLhyphen"/>ment, it much loſt its force, and became more
+properly Light and Heat, than Fire, as it is now placed; ſo that we here
+ſee the meaning of that word, <hi>The Voice of the Lord divideth the Flames
+of Fire;</hi> the moſt compact Body of Fire is divided till it comes to be
+hardly any longer Fire: Bodies are diviſible, Spirits not; the nearer any
+Body is to Spirit, the more hard to have its parts divi<g ref="char:EOLhyphen"/>ded: Fire is that
+wonderful Sub<g ref="char:EOLhyphen"/>ſtance, I muſt not, I dare not at this time ſay any more of
+the Na<g ref="char:EOLhyphen"/>ture of it. But notwithſtand<g ref="char:EOLhyphen"/>ing the Fire is brought into this
+peaceful Temperature, in the making the Firmament, yet it retains ſo much the
+Nature of <pb n="74" facs="tcp:151842:46"/>Fire, that if it is agitated and contracted, it
+becomes Fire a<g ref="char:EOLhyphen"/>gain; as we ſee by a common Experiment, it is done by the
+Burning-Glaſs: But it is made out Excellently and Clearly, by the account we
+have of the Laſt Great Conflagration; in the Scriptures it is ſaid, <hi>The
+Element ſhall melt with fervent heat;</hi> and that it ſhall be <hi>wrapped
+up like a Scroul;</hi> which paſſage explains the former; its being wrapped
+up, contracted, and brought into a narrower compaſs, will ſo in<g ref="char:EOLhyphen"/>creaſe
+the intenſe heat, that <hi>the Element ſhall melt, and the Earth and all
+things in it ſhall be burnt up.</hi> And thus it is ſhewed mo the
+Conflagration, burning the Earth by Fire, ſhall in ſome reſpects
+reſemble the Deluge by Water; then the <hi>Windows of Heaven were opened, and
+the Fountains of the <pb n="75" facs="tcp:151842:46"/>great Deeps were broken up:</hi> So in
+the Diſpenſation of Fire, the Ele<g ref="char:EOLhyphen"/>ment ſhall perform its Office of
+Burning, as hath been a little before deſcribed; alſo the impri<g ref="char:EOLhyphen"/>ſoned
+Fires in the Powels of the Earth, ſhall be ſet at liberty; their Deep
+ſhall be broken up, that they may meet their beloved up<g ref="char:EOLhyphen"/>per Flames, to which
+they al<g ref="char:EOLhyphen"/>ways tend. And it appears to me, that as the World grows nearer its
+period, nearer this Diſpenſation of Fire, the Cen<g ref="char:EOLhyphen"/>tral Fires do more break
+their Priſons, make their way out of the Earth, gain Victory over the Waters
+under the Earth, and ſometimes above the Surface of the Earth; as is ſeen
+by <hi>Veſuvi<g ref="char:EOLhyphen"/>us, Aetna,</hi> and other Burnings, that in our time have
+wonder<g ref="char:EOLhyphen"/>fully iſſued forth, and ſhewed their Conqueſt over the Water, 
+<pb n="76" facs="tcp:151842:47"/>by ſad Effects: And Earth<g ref="char:EOLhyphen"/>quakes may be ſometimes
+cauſed by the ſtrife of Fire and Wa<g ref="char:EOLhyphen"/>ter, which when Fire gets the
+predominancy, cauſes the Earth to open; for we commonly ſee the exceſs of
+Drineſs makes the Earth chap and gape, Moiſture makes it more continuous,
+or clinging together.</p>
+            <p>Now I cannot but return with Admiration to behold the Beauty and
+Wiſdom of this Se<g ref="char:EOLhyphen"/>cond Day's Work, and ſay, <hi>tIt was very good: And the
+Evening and the Morning was the Second Day.</hi>
+            </p>
+            <p>O Admirable Order of things! How am I raviſhed with the ſight!
+Who can enter into the deep of this one Sentence, <hi>The Evening and the
+Morning was the Second Day!</hi>
+            </p>
+            <pb n="77" facs="tcp:151842:47"/>
+            <p>According to my ſcanty mea<g ref="char:EOLhyphen"/>ſure, I ſhall deſcribe the
+Philoſo<g ref="char:EOLhyphen"/>phers Second Day's Work. It is not to be wondred if I do it not ſo
+exactly as ſome others, who have more of the Spirit of Wiſdom, and are
+Poſſeſſors of her Treaſures, while I profeſs to be only a Seeker
+and Lover: It appears to me that the Philoſo<g ref="char:EOLhyphen"/>phers Firmament is ſpread out
+like a Molten Looking-Glaſs; and to me none but a wiſe Man can well
+underſtand this Paſſage, he hath ſeen his Light ariſe out of the
+Darkneſs, and expatiate it ſelf to the filling his Recipient, how large
+ſoever it be, his Fir<g ref="char:EOLhyphen"/>mament is Light, hath the Na<g ref="char:EOLhyphen"/>ture of Fire in it, which
+is en<g ref="char:EOLhyphen"/>compaſſed with Water above, and underneath the Water is predominant;
+in the beginning of his Work is the greateſt quan<g ref="char:EOLhyphen"/>tity, <pb n="78" facs="tcp:151842:48"/>that he is ready to call it Superfluous Humidity; but as his Work
+grows towards a ſtate of Perfection, the Fire prevails, it becomes a Child of
+the Fire, lives in the Fire, feeds on the Fire; I mean not Devouring Fire; this
+appears not to be in it, unleſs it is agitated and ſtirred up by too
+violent motion: But Light or Fire ſo mingled by gen<g ref="char:EOLhyphen"/>tle procedure, with the
+Water that it partakes of, the Meek Peaceful Nature of the Water, and gives
+forth ſo much of its own permanent compact Sub<g ref="char:EOLhyphen"/>ſtance, that they become one
+excellently qualified Eſſence, Fire being in this ſtate of Perfection
+predominant; but ſuch a Fire as is before deſcribed, that doth not
+deſtroy, but exalt the Sub<g ref="char:EOLhyphen"/>ſtance to a more fix'd, pure, perma<g ref="char:EOLhyphen"/>nent
+ſtate: I ſay ſomething of <pb n="79" facs="tcp:151842:48"/>this Work, as it is at the
+conclu<g ref="char:EOLhyphen"/>ſion in this Second Day's Work, becauſe Light and Heat, where<g ref="char:EOLhyphen"/>of the
+Firmament conſiſts, are powerful Agents to begin and end the Work withal:
+But the ſpreading forth the Light into a Beautiful Mirror, is the end of his
+Second Day's Work.</p>
+            <p>Now there is an admirable Teaching in this, it is a Figure of the
+Work of the Spirit of God in illuminating the Minds of Men; which is a
+Tranſlating them out of the Kingdom of Darkneſs, into the Kingdom of the
+dear Son of God: This is done in ſome meaſure in the be<g ref="char:EOLhyphen"/>ginning, in the
+firſt Day's Work, but is greatly increaſed in the Se<g ref="char:EOLhyphen"/>cond, till we are
+brought into his Marvellous Light. When the Light Center is open in us, which
+was ſhut and vailed in the Fall, it <pb n="80" facs="tcp:151842:49"/>is a bleſſed
+thing; but when it ſpreads it ſelf, that the Under<g ref="char:EOLhyphen"/>ſtanding is
+enlightened in the Knowledge of God, of himſelf, and in ſome degree of the
+Crea<g ref="char:EOLhyphen"/>tion round about him, he comes again to be but a little lower than the
+Angels, who are Intel<g ref="char:EOLhyphen"/>ligences, who are Fire; <hi>He ma<g ref="char:EOLhyphen"/>keth his Angels
+Spirits, and thoſe Miniſters of his Flames of Fire:</hi> Nay, Man in his
+firſt Creation was an Excellently Noble Crea<g ref="char:EOLhyphen"/>ture, he was the Epitomy of the
+whole World; he was the Little World, in which the Great was compriſed; he
+had the Elements and all Creatures within himſelf. We may well ſay, <hi>We
+are fear<g ref="char:EOLhyphen"/>fully and wonderfully made,</hi> with holy <hi>David,</hi> who had his
+Eyes opened to ſee his own Excellent Make. But if the firſt Creation was
+glorious, how much more <pb n="81" facs="tcp:151842:49"/>is the Second, the New Creation in
+Man, <hi>when old things ſhall paſs away, and all things become new?</hi>
+And one admirable part of this Work, is the bringing forth the New Heaven in
+us, the New Firmament, wherein is Light, Serenity, Calmneſs; the Fire being
+tempered with the meek Waters of Quietneſs, ſo that the wrathful property
+of the Fire, is changed into a ſweet peaceful Light; but this Light Centre
+cannot be opened in us, but by our bleſſed JESUS, who <hi>hath the Key of
+David, who opens and no Man ſhuts; and ſhuts, and no Man opens:</hi> O!
+'tis our bleſſed JESUS, who opens his own Light in us by his Spirit; he
+cauſeth his glorious Light to ſhine out of the Darkneſs, and to ariſe,
+and to enlarge it ſelf, till our whole Body is full of <pb n="82" facs="tcp:151842:50"/>Light: There is a certain ſign given, to know whether the whole Body
+is full of Light; <hi>If thy Eye is ſingle,</hi> our dear Lord tells us,
+<hi>our whole Body is full of Light:</hi> The ſingle Eye is, when we fix our
+Eye upon the Light, on the Good, firſt in God him<g ref="char:EOLhyphen"/>ſelf, and in all the
+Creatures where it is ſcattered up and down, but all from the ſame Root.
+Now God himſelf be<g ref="char:EOLhyphen"/>holds the Evil and the Good, but he dwells in the Light:
+So, tho' we may ſee the Evil, we muſt ſhut our Eye to it, and open it to
+the Good; thus ſtedfaſtly be<g ref="char:EOLhyphen"/>holding the Light, we ſhall be transformed
+into its Likeneſs. However, every thing is beauti<g ref="char:EOLhyphen"/>ful in its Seaſon:
+<hi>The Evening as well as the Morning is the Se<g ref="char:EOLhyphen"/>cond Day.</hi>
+            </p>
+            <pb n="83" facs="tcp:151842:50"/>
+            <p>
+               <hi>And God ſaid again, Let the Waters under the Heaven be
+ga<g ref="char:EOLhyphen"/>thered together into one place, and let the dry Land appear; and it was
+ſo: Then God ſaid, Let the Earth bring forth the Bud of the Herb that
+ſeedeth Seed, the fruit<g ref="char:EOLhyphen"/>ful Tree that beareth Fruit,</hi> &amp;c. <hi>and it
+was ſo. And God ſaw that it was good: And the Evening and the Morning were
+the Third Day.</hi>
+            </p>
+            <p>In this Third Day's Work, there was a gathering together of vaſt
+quantities of Waters that made the Seas, thoſe mighty Oceans, where the
+Wonders of God are ſeen by thoſe who go down into the Deep in Ships. Surely
+the Waters were at firſt the greateſt part of this Globe of the lower
+World: They yet re<g ref="char:EOLhyphen"/>main very great, tho' more Ground hath been gain'd ſince
+the firſt Creation, as is plain in <pb n="84" facs="tcp:151842:51"/>many parts of the
+World. There remains in the Sea ſuch a quanti<g ref="char:EOLhyphen"/>ty of the Oleous Light, or
+fiery part of the Chaos, as ripens them, and ſometimes gains ad<g ref="char:EOLhyphen"/>vantage, and
+a little dries them up, and leſſens their Quantity. This Subſtance when
+it is agira<g ref="char:EOLhyphen"/>ted, makes the Sea boil like a Pot; it often appears like Fire: And
+who know the Nature of Salt, eſpecially Sea-Salt, will know that this is
+ſo; and they will know the meaning of that word, <hi>Every Sacrifice ſhall
+be ſea<g ref="char:EOLhyphen"/>ſoned with Fire, and ſalted with Salt,</hi> which are equivalent
+terms. Now in the ſeparation of the Elements, when the Light was carried
+upwards, and much Wa<g ref="char:EOLhyphen"/>ter with it, and the Waters were gathered together in this
+Globe, the dry Land appeared; the Light and Waters being ſepara<g ref="char:EOLhyphen"/>ted 
+<pb n="85" facs="tcp:151842:51"/>from it, the Earth appear'd but a <hi>Caput Mortuum,</hi> a
+Dead Earth, till the Prolifick Virtue was call'd forth by the Word of God; and
+then it appeared that Heaven had not left the Earth, without firſt imprinting
+alovely Image upon it: There was left in it ſo much Life and Heat as quickned
+it to bring forth innu<g ref="char:EOLhyphen"/>merable Vegetable Subſtances of various Size, Shape,
+Colour; Fruits, and Herbs, and Flowers, with great Variety of Taſte, and
+Fragrancy of Smell; all to ſhew forth the Bounty and Magnifi<g ref="char:EOLhyphen"/>cence of our
+Great Creator: How freely did the Teeming Earth, in this Virgin-ſtate of
+Purity, bring forth the various beautiful Forms of Vegetable Subſtances,
+before it was Clogg'd and Burthen'd with the Curſe? The Earth we tread on, as
+Contemptible as we <pb n="86" facs="tcp:151842:52"/>are apt to think of it,
+notwith<g ref="char:EOLhyphen"/>ſtanding the Diſadvantage it hath by the Fall of Man, which brought
+the Curſe upon it, there is that Luſtre, Beauty, Excellen<g ref="char:EOLhyphen"/>cy in it, that if
+the ſame Spirit that made it, pleaſe to open our Eyes to ſee, we ſhall
+behold with wonder. Sure ſuch Wiſdom is worth our ſeeking and praying
+for, which we have great Encon<g ref="char:EOLhyphen"/>ragement to do, when we read of the great
+Wiſdom of <hi>Solomon,</hi> who knew the Nature of all Ve<g ref="char:EOLhyphen"/>getables, from the
+Tall Cedar, to the Low but Sweet Hyſſop: The reſidue of the Spirit is
+with the Lord, but for theſe things he will be ſought unto; and they that
+ſeek, ſhall find a meaſure of Wiſdom, if not ſo great: But we muſt
+dig deep for it, as for hid Treaſures, and be thankful for a little. It is a
+great bleſſing <pb n="87" facs="tcp:151842:52"/>to have the Scriptures, and any degree
+of the Spirit of God to open them to us, in ſhewing to us the Wonders of God
+in the Creatures; particularly in the gathering together of the Waters, and
+ſetting bounds to their proud Waves, ſaying, <hi>Hither to and no
+further;</hi> in cauſing the dry Land to appear, and at the Command of God to
+appear with an admi<g ref="char:EOLhyphen"/>rable Verdure, a beautiful Cloath<g ref="char:EOLhyphen"/>ing, which was the end of
+the Third Day's Work: <hi>And the Evening and the Morning were the Third
+Day.</hi>
+            </p>
+            <p>The Philoſopher's Third Day's Work is a Separation of the
+Ele<g ref="char:EOLhyphen"/>ments, that his Dry Ground ap<g ref="char:EOLhyphen"/>pears with a Vegetative Life in it, which, if
+he pleaſes, will ſpring up in his Glaſs: There is in his Ground Beautiful
+Colours, Pleaſant Scents, and his Earth <pb n="88" facs="tcp:151842:53"/>while in this
+ſtate may not be Unprofitable or Unfruitful, but may be made to bring forth
+In<g ref="char:EOLhyphen"/>creaſe in not Unprofitable Fruits, nor is his Verdure unpleaſant to
+behold. This is a ſhort Account of the Philoſopher's Third Day's Work. A
+better Hand may ſup<g ref="char:EOLhyphen"/>ply the ſhortneſs and imperfe<g ref="char:EOLhyphen"/>ction of it.</p>
+            <p>The Third Day's Work, as it is wrought Internally, in bring<g ref="char:EOLhyphen"/>ing
+forth the Fruits of the Spirit, is excellently deſcribed in the Scripture:
+There is the good Ground ſpoken of, that brings forth Fruit abundantly,
+<hi>ſome fif<g ref="char:EOLhyphen"/>ty, ſome ſixty, and ſome an hun<g ref="char:EOLhyphen"/>dred fold:</hi> It is a
+bleſſed thing to have the good Ground in us, the Ground that ſtands out
+of Dying, out of Repentance, tho' it was once covered with the <hi>Waters,</hi>
+it is not now laying again <pb n="89" facs="tcp:151842:53"/>this Foundation of Repentance,
+but they go on to bring forth other good Fruits, that they may be rooted and
+grounded in Love; <hi>that they may take Root downwards, and bring forth Fruit
+upwards; Fruits of Righteouſneſs, Fruits of Renown; that they may be as
+Trees planted by the Rivers of Waters, bringing forth Fruit in due
+ſeaſon.</hi> How ſhort are ma<g ref="char:EOLhyphen"/>ny Chriſtians of this Work? How then
+ſhall we attain to the Seventh Day, the Sabbath of Reſt? However, the Work
+of this Day is very good: <hi>And the Evening and the Morning is the Third
+Day.</hi>
+            </p>
+            <p>Now the Fourth Day's Admi<g ref="char:EOLhyphen"/>rable Brightneſs appears before me
+with ſuch Splendor, as is ready to dazle my weak ſight: wonderful
+Brightneſs hinders our <pb n="90" facs="tcp:151842:54"/>ſight as much almoſt as
+Darkneſs. O glorious Sun of Righteouſneſs, ariſe in my Soul! Enlighten
+my Darkneſs: Let the Shadows flee away: <hi>In thy Light let me ſee
+Light:</hi> Strengthen my Optick Faculty, that I may look within the Vail, and
+behold Thee, Thou Sun of Suns; the Brightneſs of the Fathers Glory: I can
+ſee but little of Thee; I can know but little of Thee; I cannot Com<g ref="char:EOLhyphen"/>prehend
+Thee; do thou Com<g ref="char:EOLhyphen"/>prehend me, Surround me with thy Brightneſs, Gather me up
+in<g ref="char:EOLhyphen"/>to thy Self, that Inferiour Lights may be under my feet, that I may no
+longer be governed by their Influences, but may be under the immediate Conduct
+of thy Light World, where they need not the Light of the Sun, for thy Self is
+the Light thereof: When ſhall it be ſaid to thy <pb n="91" facs="tcp:151842:54"/>Church,
+<hi>Ariſe and ſhine, for thy Light is come?</hi> Even ſo, come Lord
+JESUS, come quickly.</p>
+            <p>
+               <hi>And God ſaid, Let there be Lights in the Firmament of the
+Heaven to ſeparate the Day from the Night; and let them be for Signs and for
+Seaſons,</hi> &amp;c. <hi>and let them give Light on the Earth. And God made
+two great Lights, the greater Light to rule the Day, the leſſer Light to
+rule the Night; He made alſo the Stars; and God ſet them in the Firmament
+to ſhine upon the Earth, and to rule the Night and the Day, and ſeparate
+the Light from the Darkneſs: And God ſaw that it was good.</hi>
+            </p>
+            <p>God by his Spirit made the Heavens, and by his Spirit he
+garniſhed and embelliſhed the Heavens: The Firmament was before a beautiful
+Looking-Glaſs, it was an admirable one indeed, <pb n="92" facs="tcp:151842:55"/>when the
+lovely Forms of Bodies of Light were to be ſeen in it. <hi>God ſaid, Let
+there be Lights in the Firmament:</hi> This was not only to Adorn, but for many
+ad<g ref="char:EOLhyphen"/>mirable Uſes, for Signs and for Seaſons; They ſign and ſignify out
+much to the Inhabitants of this lower World; they have a Voice to us, if we
+could under<g ref="char:EOLhyphen"/>ſtand it; there is no Tongue nor Language where their Voice is
+not heard, but how few under<g ref="char:EOLhyphen"/>ſtand the Language? They were to give Light on
+the Earth, Light is one of the moſt comfort<g ref="char:EOLhyphen"/>able Bleſſings we have; it is
+one of the good Gifts that comes from the Father of Lights. If it were ask'd,
+Hath the Light a Father? As <hi>Job</hi> was ask'd concerning the Rain: We
+might anſwer, It hath a Divine Original: For the Fir<g ref="char:EOLhyphen"/>mament is a Mirror, as
+it ſhews <pb n="93" facs="tcp:151842:55"/>to us the Births and Repreſen<g ref="char:EOLhyphen"/>tations of the
+upper Light World, the Superceleſtial Sun and Moon, and Stars, the ſeven
+Spirits of God, the ſeven Golden Lamps ſhew themſelves in their various
+Lights, and put forth their In<g ref="char:EOLhyphen"/>fluences in the viſible Heavens, from thence
+they are conveyed down to our lower World, and we have our Sun, and Moon, and
+Stars in the Earth, we have our Sun <hi>Centralis,</hi> as ſome
+Philoſo<g ref="char:EOLhyphen"/>pher calls it, I think <hi>Sandivogius:</hi> Some other Enlightned
+Perſon ſaith, <hi>There is Heaven above, and Heaven beneath; know this, and
+be happy.</hi> I mention this in this place, becauſe the Mineral Kingdom hath
+ſome ſhare in this Fourth Days Work; for when the Lights of the Firmament
+were made to ſhine forth, being a Reflection from the moſt glorious Upper 
+<pb n="94" facs="tcp:151842:56"/>Light World, they did not reſt there ſo, but that they
+put forth Themſelves into a Birth, into a Reflection or Mirror in this Lower
+World; but here the Chriſtal is ſo thick, it is hard ſeeing through it,
+the Fall hath ſo much mudded this Principle, this Lower Earth: Beſides, our
+Sun and Moon are but the Refle<g ref="char:EOLhyphen"/>ction of a Reflection, the Shadow of a Shadow:
+Therefore we muſt dig deep for this Wiſdom as for hid Treaſures, and we
+ſhall ſee Wiſdom hath builded her Houſe, ſo as to lay her ſeven
+Pillars deep in the very Foundation, in the very Center of all things. I was
+ready to wonder that the Mine<g ref="char:EOLhyphen"/>ral Kingdom was not deſcribed, as well as the
+Creation of the Ve<g ref="char:EOLhyphen"/>getable and Animal, in this firſt Chapter of
+<hi>Geneſis,</hi> till my Eyes were opened, to ſee it did belong 
+<pb n="95" facs="tcp:151842:56"/>to this Fourth Day's Work. And now I ſee more clearly the
+deep Significancy of <hi>Joſeph</hi>'s Bleſſing, which hath contained in
+it the Sweetneſs of Heaven above, and the Deep lying beneath, the ſweet
+Increaſe of the Sun and of the Moon. Lord, after this ſight, let me no more
+think any of thy Creatures mean or little; let me be always thankful for the
+leaſt of thy Favours: Nothing can be little that comes from Thee, thou Being
+of all Beings: Thou haſt nothing little to give: All thy Works are wonderful,
+in Wiſdom haſt thou made them all: Thy Footſteps are glorious, thy
+Foot<g ref="char:EOLhyphen"/>ſtool is richly adorned: All thy Ways are Pleaſantneſs, all thy
+Paths are Peace. I deſire to be in Subjection to Thee, thou Fa<g ref="char:EOLhyphen"/>ther of my
+Spirit, that I may live, that I may live to praiſe, <pb n="96" facs="tcp:151842:57"/>live
+to love, and to adore thee for ever. The lower Sun, Moon and Stars, that
+inhabit our Earth, are for the uſe of Man; eſpecially a wiſe Man, who
+knows their Ori<g ref="char:EOLhyphen"/>ginal Nature and Uſe, and when he intends to improve them for
+the health of his Body, or benefit of his Eſtate, he makes them to ſhine in
+his Firmament; and they are to him for Signs and Seaſons, by which to govern
+his Work; they are to enlighten his Earth, to make it fruitful, to bring forth
+their own bright Forms, till his véry Earth is throughout enlight<g ref="char:EOLhyphen"/>ned,
+and comes to be it ſelf a bright ſhining Sun. This Fourth Day's Work is
+figured out in Man, who is the Little World in the Frame of his outward Body,
+as is ſaid in the 12th of the <hi>Eccle<g ref="char:EOLhyphen"/>ſiaſtes, Whilſt the Sun is not
+dark, nor the Light, nor the Moon, nor the <pb n="97" facs="tcp:151842:57"/>Stars:</hi> The
+Fall of Man Eclip<g ref="char:EOLhyphen"/>ſed the Lights, and laid them liable to Darkneſs: It
+entied in<g ref="char:EOLhyphen"/>to the very Soul and Spirit, and darkned the Light there. But when
+the Spirit of the Lord comes to work the New Birth, the New Creation, this
+Fourth Day's Work comes to be known in the Soul, O who can expreſs the
+glorious Splendor if it! When the Lord himſelf comes to be a Sun and a
+Shield! When the Sun of Righteouſneſs doth ariſe with Healing in his
+Wings! The Dawning of this Day, the Mor<g ref="char:EOLhyphen"/>ning Redneſs, the Sun Riſing: Who
+can expreſs the unutterable Sweetneſs and Strength that is felt in the
+happy Soul that is thus ſhined upon! But to have this Sun ſhine brighter
+and brighter, to the perfect Day, to increaſe into the Light of ſeven Days!
+O <pb n="98" facs="tcp:151842:58"/>may a poor low humble Soul that feels a little
+Refreſhment from the Beams of this Sun, lie pro<g ref="char:EOLhyphen"/>ſtrate till it feels that
+it is throughout penetrated and filled, till it is cloathed with the Sun, and
+hath the Moon under its Feet, that it may go forth in the power of this Sun as
+a Giant re<g ref="char:EOLhyphen"/>freſhed with Wine, and as a ſtrong Man to run a Race. O my Soul,
+lie low; proſtrate thy ſelf at the Feet of thy <hi>JES<g ref="char:V">Ʋ</g>S;</hi> in
+ſilence wait his pleaſure; ſtir not up thy Beloved till he pleaſe. He
+hath ſometimes viſited a Soul with ſuch Favours as hath made it
+ſing.</p>
+            <lg>
+               <lg>
+                  <l>ſilent Waiting I do find</l>
+                  <l>A Treaſure opens in my Mind:</l>
+                  <l>Turn in, my Soul, turn in and ſee</l>
+                  <l>The fulneſs of this Treaſury.</l>
+                  <pb n="99" facs="tcp:151842:58"/>
+                  <l>'Twas placed here by thee, O Lord,</l>
+                  <l>'Tis opened by thy Living Word?</l>
+                  <l>'Tis he himſelf doth keep the Key</l>
+                  <l>Of all th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hidden
+Myſtery.</l>
+                  <l>He is my Sun of Righteouſneſs,</l>
+                  <l>Who my whole Perſon doth poſſeſs:</l>
+                  <l>He is my Gold tried in the Fire,</l>
+                  <l>He is my Cloathing, my Attire:</l>
+                  <l>He is my Food, on him I feed,</l>
+                  <l>And find him to be Meat indeed.</l>
+               </lg>
+               <lg>
+                  <l>Now proſtrate Soul, do thou ariſe,</l>
+                  <l>For thou haſt won the glorious Prize:</l>
+                  <l>Do not ſit ſighing here alone,</l>
+                  <l>Since thou this happy Day haſt known.</l>
+                  <l>The Lovely Garland thou haſt won,</l>
+                  <l>Thy Head is wreathed with the Sun.</l>
+               </lg>
+            </lg>
+            <p>The Fifth Day's Work of Creation was, The Lord's call<g ref="char:EOLhyphen"/>ing forth
+the Prolifick Virtue of the Water and Air, which was <pb n="100" facs="tcp:151842:59"/>immediately obeyed, and they brought forth abundantly. <hi>And God
+ſaid, Let the Waters bring forth abundantly the moving Crea<g ref="char:EOLhyphen"/>ture that hath
+life, and Fowl that may fly above the Earth, in the open Firmament of Heaven.
+And God created great Whales,</hi> &amp;c. This word <hi>abundantly</hi> is
+twice uſed in the account of the Fifth Day's Work; this ſhews the abundant
+quantity of Water that there was to bring forth, and the a<g ref="char:EOLhyphen"/>bundance of
+Creatures that were brought forth of Fiſh and Fowl, which are innumerable,
+and wonderfully various in their ſize, ſhape, and other qualities; their
+Number being ſo wonderful, and beyond comprehenſion, their diſ<g ref="char:EOLhyphen"/>proportion
+of ſize was wiſely made the moſt vaſtly diſpropor<g ref="char:EOLhyphen"/>tionate of any of
+the other Crea<g ref="char:EOLhyphen"/>tures; the Whale being of the <pb n="101" facs="tcp:151842:59"/>largeſt
+Bulk of all living Crea<g ref="char:EOLhyphen"/>tures; and therefore may be called the Chief of all the
+ways and works of God; and as Mr. <hi>Boyle</hi> obſerves, in his Excel<g ref="char:EOLhyphen"/>lent
+Book of Natural Philoſo<g ref="char:EOLhyphen"/>phy, There is bred in a liquid ſubſtance, in
+Vinegar, the ſmall<g ref="char:EOLhyphen"/>eſt Creature; ſo that there is room left for wonderful
+Variety to come between, which is admi<g ref="char:EOLhyphen"/>rably filled up with great Va<g ref="char:EOLhyphen"/>riety. O
+bleſſed Eternity! that will give Time and Capacity to ſee the Wonders of
+the Ways and Works of God! To ſee them in their Original, not only in a
+Glaſs, in ſhadowy Repreſentations; the great quantity and prolifick
+Vir<g ref="char:EOLhyphen"/>tue of the Waters, is ſeen in their wonderful Encreaſe, which is ſeen
+now in their Spawning and bringing forth Multitudes at once; one Fiſh
+bringing forth a <pb n="102" facs="tcp:151842:60"/>greater Number at one time, than any
+other Creature doth pro<g ref="char:EOLhyphen"/>duce in many years. The Fowls, thoſe curious Aerial
+Inhabitants, are very admirable; they alſo were the Fifth Day's Work, and
+tho' they inhabit the Air, the Water is only mentioned as the cauſe of their
+Production, by the power of God; which proves what I have before ſaid of the
+af<g ref="char:EOLhyphen"/>finity between the Water and Air; and there were ſome of theſe Creatures
+made, as it were, of a Middle Nature, as Fiſh that fly, and Fowl that ſwim.
+Theſe Inhabitants of the Aerial Region are very worthy Contemplation, their
+excellent Situation, curious Make, variety of Colour, plea<g ref="char:EOLhyphen"/>ſant Employment,
+admirable Oeconomy or Government, are all cauſe of much Wonder. There is no
+ſort of ſublunary Creatures <pb n="103" facs="tcp:151842:60"/>I would ſo ſoon change
+my Make with, as theſe: Their Aerial Bodies are ſo light, their motion is
+ſwift. <hi>David</hi> was rea<g ref="char:EOLhyphen"/>dy to envy their getting ſo near the Altars,
+he deſired the Wings of a Dove, to fly away, and be at reſt: Their
+Employment is pleaſant, chearfully ſinging their Creators praiſe: They
+are im<g ref="char:EOLhyphen"/>mediately under their Creator's bountiful Care and Proviſion; they
+ſow not, nor reap, yet are taken care of, and have their Meat in due
+ſeaſon: I cannot but particularly admire the Bee, that pretty little
+Chymiſt, that knows how to ſeparate the Sub<g ref="char:EOLhyphen"/>ſtances: We may learn Natural
+and Moral Philoſophy from this little Inſect: It induſtriouſly works,
+and wiſely improves the matter that it works upon, by ſe<g ref="char:EOLhyphen"/>parating the
+Precious from the <pb n="104" facs="tcp:151842:61"/>Vile: Their Government is Ex<g ref="char:EOLhyphen"/>cellent;
+there is Superiority for Orders ſake, and yet love makes an Equality; they
+dwell in their little Houſes one by another without encroaching, and yet
+communicating; tho' there is ſomething of particularity, it hath one
+Foundation, and is cloſely joyned, ſo that it encrea<g ref="char:EOLhyphen"/>ſes into a common
+ſtock. I can<g ref="char:EOLhyphen"/>not but much admire this Order of Beings, the winged
+Choriſters. If I could underſtand the Lan<g ref="char:EOLhyphen"/>guage of Nature, they would all
+teach me much to know the God of Nature, who hath made them, and taught them,
+and takes care of them continu<g ref="char:EOLhyphen"/>ally.</p>
+            <p>In the Philoſophers Fifth Day's Work, there is the Exaltation of
+Eagles, the Doves of <hi>Diana,</hi> whoſe meek Natures might teach their 
+<pb n="105" facs="tcp:151842:61"/>Maſters Patience; their <hi>Phaenix</hi> is their moſt
+Noble Bird, for out of its Aſhes is produced and doth ariſe a young One
+more Noble.</p>
+            <p>In the Inword Work upon the Minds of Men, there is a great Advance
+of the Work, towards a finiſhing the New Creation, the New Birth, and may be
+call<g ref="char:EOLhyphen"/>ed the Fifth Day's Work, when we are made to mount up with Wings as
+Eagles. It is a bleſſed thing to know this Fifth Num<g ref="char:EOLhyphen"/>ber to be
+accompliſhed in us, when we come to be above the perturbation of the
+Elements, when we dwell in the Upper Region, in Serenity and Stillneſs, in
+the One pure Element. If we have Faith as a grain of Muſtard-ſeed, it will
+grow up till at laſt it will become a great Tree, that the Fowls of the Air
+ſhall lodge in the Branches, our own Spirits <pb n="106" facs="tcp:151842:62"/>will come
+to dwell in this beauti<g ref="char:EOLhyphen"/>ful Tree of Faith, which is ano<g ref="char:EOLhyphen"/>ther Life than we knew
+before; and other good Spirits will inha<g ref="char:EOLhyphen"/>bit with us, that we ſhall ſay
+with the Spouſe, <hi>The time of the ſinging of Birds is come, and the
+Voice of the Turtle is heard in our Land:</hi> We ſhall joyn with Quires of
+Angels, to ſing Hymns of Praiſe to our God and King; Hallelujah,
+Hallelujah. Some Souls are redeemed, and brought to this ſtate; but O when
+ſhall the Church be brought from a<g ref="char:EOLhyphen"/>mongſt the Pots, from amongſt the
+ſoil and impurity that cleaves to them? When ſhall ſhe ariſe like a
+Bird of Paradiſe, with her Wings of yellow Gold? O my Soul, wreſtle in
+ſecret with thy God, that this may be accompli<g ref="char:EOLhyphen"/>ſhed, that there may be a
+going on to the Sixth Day's Work.</p>
+            <pb n="107" facs="tcp:151842:62"/>
+            <p>Moreover the Lord ſaid, <hi>Let the Earth bring forth the living
+thing after its kind, Cattel and every creeping thing,</hi> &amp;c. <hi>And it
+was ſo.</hi> Furthermore, <hi>God ſaid, Let us make Man in our Image,</hi>
+&amp;c. Read to the end of the Chapter. The Lord may open more to thee (whoever
+thou art) than to me, who know nothing, but am a little Child; I am become a
+Fool, that I may be made Wiſe: I de<g ref="char:EOLhyphen"/>ſire that my bleſſed Jeſus may be
+made of God to me Wiſdom. 'Tis the Fools and ſimple Ones to whom Wiſdom
+cries: She lifts up her Voice, and ſaith, <hi>Who<g ref="char:EOLhyphen"/>ſo is ſimple, turn in
+hither:</hi> And to a poor ſimple One, as I am, ſhe may ſhew the
+Excellency of the Six Day's Work of Creation.</p>
+            <p>
+               <hi>And the Lord ſaid, Let the Earth bring forth:</hi> This was
+a pure Earth, as it came forth im<g ref="char:EOLhyphen"/>mediately <pb n="108" facs="tcp:151842:63"/>from the Lord,
+as it was the immediate Product or Birth of his Spirit: And when the dry Land
+did appear at the Command of God, the Lord ſaw that it was good: And tho' at
+the firſt appearance the dry Earth had not ſo great a Luſtre as
+after<g ref="char:EOLhyphen"/>wards, when it was beautified and adorned, but was partly like a calcined
+Earth; the Fire, and Water, and Air, being in a great degree ſeparated from
+it; yet when the Lord by his powerful Word call'd forth its Virtue, it ſhew'd
+it ſelf to have an admira<g ref="char:EOLhyphen"/>ble Life in it: And indeed the Earth it ſelf was
+exceedingly more pure, beautiful, lovely, than ſince the Curſe: It did far
+excel in Colour, Virtue, Clarity and Brightneſs; that all the Creatures that
+were then the immediate product of this Earth, were like <pb n="109" facs="tcp:151842:63"/>it ſelf, very good, very lovely, and tranſparent; ſuch were then
+the Plants, the Beaſts, and the Man, whoſe Name ſignifies the Red Earth
+of which he was made. Whoſoever hath his Eyes opened by the Lord to ſee the
+Paradiſical State of things, they will ſee the Plants to appear
+Chriſtaline, like precious Stones, and all other things proportionably
+advanced to a moſt Noble Excellent ſtate; which I doubt not ſome
+Perſons have ſeen while in the Body, more clearly than my ſelf. Could we
+ſee, or elſe believe, that the Beaſts were ever ſuch Excellent
+Creatures, and capable of being made ſo again, there would not be ſuch
+cruelty uſed towards our fellow-Creatures as there is, when we ſee they are
+part of the ſame Day's Work with our ſelves, of the Sixth Day's Work; and
+that <pb n="110" facs="tcp:151842:64"/>they were very Excellent in their Make; and that by
+the Fall of Mankind, who was made the Lord of them, the poor Crea<g ref="char:EOLhyphen"/>tures came to
+ſink with him into a low deplorable ſtate of Miſery: ſure we ſhall
+commiſerate them, we ſhall gain the true Empire over them by behaving our
+ſelves towards them with much love, and ſome reſpect, tho' as to
+in<g ref="char:EOLhyphen"/>feriour Creatures; yet this love will gain our true Empire over the
+Creatures. When this Spirit of Love goes forth, that Promiſe ſhall be made
+good, <hi>That the Lion ſhall lie down with the Lamb, and a little Child
+ſhall lead them:</hi> While we are wrathful toward the Creatures, it ſtirs
+up wrath and enmity in them; but when we rule them in love, with wiſdom, they
+eaſily ſubject themſelves to us; when we rule more from a 
+<pb n="111" facs="tcp:151842:64"/>Spirit given us of God to govern, than from a deſire in
+us, or a will to have Superiority over our fellow-Creatures.</p>
+            <p>
+               <hi>Lord, Let not my Sins, my Struggle with thy Will, any longer
+hinder thy great Bleſſings from go<g ref="char:EOLhyphen"/>ing forth in the Earth, to the
+Re<g ref="char:EOLhyphen"/>leaſe of the poor groaning Creatures, Man and Beaſt; but help me to
+groan with them, for the glorious Liberty of the Sons of God. And if an evening
+muſt go before this morning, help me to ſubmit to it, and help all thy
+People to ſubmit in holy Reſignation to thy Divine Will, thou Soveraign
+Lord of Lords, and King of Kings; to whom be aſcribed all Power, Might, and
+Dominion for ever.</hi>
+            </p>
+            <p>Thus have I been enabled to ſay ſomething of the firſt part
+of the Sixth Day's Work. Now the Lord help me to know my ſelf; 
+<pb n="112" facs="tcp:151842:65"/>ſuch Knowledge it too wonderful for me.</p>
+            <p>
+               <hi>So God created Man in his own Image:</hi> O that the Vail
+might be more perfectly drawn away, that clouds this Image in me, that I may
+ſee its brightneſs ſo clearly ſhine forth in me, that what I ſee and
+feel I may declare. Sure<g ref="char:EOLhyphen"/>ly this Image doth conſiſt in Re<g ref="char:EOLhyphen"/>ctitude and
+Order, in the Union of Truth, Being, and Goodneſs; God made Man upright, he
+was made ſincere, in ſimplicity and integrity: the uprightneſs of Man is
+the Image of God, as he is a pure Unity, the One from whom all Variety flows;
+and this Image of God is moſt admirable, moſt lovely; thus God himſelf
+chara<g ref="char:EOLhyphen"/>cterizeth <hi>Job, Haſt thou conſidered my Servant Job, a Perfect
+Man, and <g ref="char:V">Ʋ</g>pright?</hi> When the Lord had thus deſcribed <hi>Job,</hi>
+preſently he <pb n="113" facs="tcp:151842:65"/>was ſet up as a Mark for the Enemy of
+Mankind to ſhoot at: Alſo <hi>Job</hi>'s Friends and others try their Skill
+upon the good Man, being ſtirred up by the Evil One. There is nothing ſo
+much hated by the Evil One, nor wicked Men; as Integrity and Uprightneſs:
+There is nothing to which they are ſo much contrary, becauſe all ſin is a
+breach of the Unity: It dwells in Contrariety, Diſorder, Confuſion; but
+when we once gain the bleſſed Image again of Uprightneſs, there is
+nothing ſo ſecures a Soul from evil Spirits, and Men, and from the ſtrife
+of Tongues, as this. There is a paſ<g ref="char:EOLhyphen"/>ſage in the Scriptures, <hi>Integrity
+and <g ref="char:V">Ʋ</g>prightneſs ſhall preſerve me:</hi> or to that purpoſe. <hi>Mark
+the Per<g ref="char:EOLhyphen"/>fect man, and behold the <g ref="char:V">Ʋ</g>pright, for the end of that man is
+Peace:</hi> from this Root an Admirable <pb n="114" facs="tcp:151842:66"/>Variety doth flow:
+God made Man Upright; upon this Tree in the midſt of the Garden did grow
+Twelve manner of Fruits; Righteouſneſs, Holineſs, Love, Peace, Joy,
+Humility, Patience, and other excellent Fruits: here grows forth a numerous
+variety; but all in a Beautiful Order and Harmony; in the Tree of Mix<g ref="char:EOLhyphen"/>ture of
+Good and Evil, there is Contrariety and Diſorder, there is Breaking in pieces
+and Confu<g ref="char:EOLhyphen"/>ſion; but where there is Integri<g ref="char:EOLhyphen"/>ty, we ſhall be as Mount-Sion
+that cannot be moved: Man was made in this bleſſed ſtate of Recti<g ref="char:EOLhyphen"/>tude
+and and Order, Uprightneſs and Integrity of Spirit and Soul; and alſo his
+very Body was of an Excellent Proportion, Tranſpa<g ref="char:EOLhyphen"/>rent Brightneſs,
+Admirable Co<g ref="char:EOLhyphen"/>lours, to ſet out this Curious Structure; we ſhall know more 
+<pb n="115" facs="tcp:151842:66"/>of this, when we ſhall be made to return into the
+Paradiſical State more fully; that the very Body may partake of it, and the
+Youth be Renewed like the Eagles: it is but few yet know any thing of this;
+ſome there are, though I am but waiting for the Redemption of the Body.</p>
+            <p>
+               <hi>In the Image of God Created he him, Male and Female Created he
+them:</hi> Man was in every re<g ref="char:EOLhyphen"/>ſpect made after the Image of God, the Female
+as well as the Male.</p>
+            <p>I do not ſee that <hi>Adam</hi> ſinned in deſiring to bring
+forth his Fe<g ref="char:EOLhyphen"/>male Self: It was before the Fall, and was no part of the Fall; it
+was a Variety, but not Contra<g ref="char:EOLhyphen"/>riety; it was a Pattern of things in the
+Heavenly; Diſtinction is conſiſtent with Unity: <hi>Marriage is
+Honourable, and the Bed <g ref="char:V">Ʋ</g>ndefi<g ref="char:EOLhyphen"/>led:</hi> 
+               <pb n="116" facs="tcp:151842:67"/>True Marriage
+is very Ho<g ref="char:EOLhyphen"/>nourable. The Apoſtle ſaith it repreſents Chriſt and the
+Church, who when the Spirit of God hath made ready, ſhe will be the Bride,
+the Lambs Wife. After theſe Conſiderations, methinks none ſhould dare to
+profane that State.</p>
+            <p>
+               <hi>And the Lord bleſſed them, and ſaid, Be fruitful and
+multiply, and repleniſh the Earth, and ſubdue it, and have Dominion,</hi>
+&amp;c. This Authority was given to the Fe<g ref="char:EOLhyphen"/>male as well as to the Male;
+therefore it is unjuſt in any to ſay they are not capable to Rule; they are
+in moſt caſes certainly to give Man the Superiority; yet the Woman is
+capable to receive a Spirit of Government when the Lord pleaſes to give it:
+But it is certainly more happy to be Go<g ref="char:EOLhyphen"/>verned, than to Govern, unleſs 
+<pb n="117" facs="tcp:151842:67"/>God calls for ſuch a Service. The ſubordinate Station
+of a Woman in Governing a Family, which is uſually allowed them, is
+Honour<g ref="char:EOLhyphen"/>able and Comfortable, if it is faithfully and prudently mana<g ref="char:EOLhyphen"/>ged. But
+Women are capable of other Employments than theſe: Their Mother Wiſdom who
+hath builded her Houſe, and hewn out her ſeven Pillars; hath called
+ſim<g ref="char:EOLhyphen"/>ple ones to come in hither; and ſhe doth not exclude Females, but they
+may receive the Law from her Mouth; ſhe will open her hid Treaſures to
+them, and ſhew them that Wiſdom is better than Gold, yea, than much fine
+Gold, better than Rubies; that the Merchandiſe is better than Silver, and the
+gain thereof than much fine Gold: If Man did but know himſelf, he would
+ſoon find Wiſ<g ref="char:EOLhyphen"/>dom's Golden Mine: If Man did <pb n="118" facs="tcp:151842:68"/>but know
+and would conſider his Divine Original, his admira<g ref="char:EOLhyphen"/>ble Make in his
+Paradiſical ſtate, that his outward Form: was ſo lovely, his Noble Soul
+was eaſily ſeen through it, ſurely he would not behave himſelf
+unſeemly to<g ref="char:EOLhyphen"/>wards his own Body, which is a Temple for the holy Ghoſt to
+dwell in, as the bleſſed Apoſtle tells us. And did Man and Wo<g ref="char:EOLhyphen"/>man
+conſider, though now they are in a diſtinct Exiſtence, they were once
+One, and when they are United in Marriage come to be ſo again; ſurely they
+would behave themſelves well in that Relation, each in love and ho<g ref="char:EOLhyphen"/>nour
+eſteeming the other; eſpe<g ref="char:EOLhyphen"/>cially let the Woman be careful to perform her
+Duty, for ſhe was firſt in the Tranſgreſſion, ſhe hath the more
+need to watch and pray, that ſhe enter not into <pb n="119" facs="tcp:151842:68"/>Temptation. When this Rela<g ref="char:EOLhyphen"/>tion is thus lived in, with this regard to
+themſelves, and one towards another, it is a holy hap<g ref="char:EOLhyphen"/>py ſtate; and <hi>if
+ye be holy,</hi> the Apoſtle tells us, <hi>then are your Children alſo holy
+Jacob Behm,</hi> that enlightened man, ſaith, <hi>En<g ref="char:EOLhyphen"/>deavour to get your
+Children good Souls.</hi> This ſtate ſo lived in, is not unbecoming a
+Paradiſical ſtate, and certainly entails a great Bleſſing upon
+Poſterity. But notwithſtanding there is an Excellency in the Paradiſical
+ſtate, yet the Heavenly is moſt Excellent, wherein there is nei<g ref="char:EOLhyphen"/>ther Male
+nor Female, Bond nor Free, but we are all one in Chriſt Jeſus. Our
+bleſſed Saviour tells us, <hi>In Heaven there is neither Marrying, nor
+giving in Marri<g ref="char:EOLhyphen"/>age, but we ſhall be like the Angels in Heaven.</hi> And as
+all Variety <pb n="120" facs="tcp:151842:69"/>proceeds from Unity, ſo they muſt return
+to Unity again. Chriſt himſelf ſhall deliver up the Kingdom to the
+Father, and God ſhall be all in all. Unity is the Beginning and End of all
+things, and Reſt is the Beginning and End of all things; which leads me to
+the Seventh Day's Reſt: <hi>The Evening and the Morn<g ref="char:EOLhyphen"/>ing was the Sixth
+Day.</hi>
+            </p>
+            <p>Now let all Creatures praiſe the Lord, my Soul ſhall bleſs
+him while I have a being. Glory to him that ſits upon the Throne for ever and
+ever, Amen, Halle<g ref="char:EOLhyphen"/>lujah. <hi>The Lord Omnipotent reigns: Let the Earth rejoyce,
+and the multitude of Iſles be glad. Re<g ref="char:EOLhyphen"/>joyce, O my Soul; Rejoyce in the Lord
+evermore.</hi>
+            </p>
+            <p>The Wiſe Mans Sixth Day, is, When his Work comes to, Ani<g ref="char:EOLhyphen"/>mality,
+ſhall I ſay? It hath then <pb n="121" facs="tcp:151842:69"/>a Paradiſical Body, and
+rather more then ſo, for it can penetrate Bodies; and it is not the Proper<g ref="char:EOLhyphen"/>ty
+of Bodies to have Penetration of Dimenſions. But draw a Vail here, leſt
+Unhallowed Hands Touch, or their Eyes See: <hi>Who<g ref="char:EOLhyphen"/>ever is a thirſt, let him
+come:</hi> If he is not athirſt for Gold, but for Wiſdom, he will find
+Wiſdom's Houſe Open to Receive the Hungry and Thirſty; And for ſuch
+ſhe hath prepared a Feaſt, ſhe hath mingled her Wine, and made ready her
+De<g ref="char:EOLhyphen"/>licacies.</p>
+            <p>The Internal Sixth Day's Work is, When we come to the ſtate of
+Manhood: To be a Man in Chriſt Jeſus, is a bleſſed happy ſtate; nay,
+to be a Babe in Chriſt is ſo, but much more to be a ſtrong Man: There is
+Food prepared for all theſe ſtates, <pb n="122" facs="tcp:151842:70"/>Milk for Babes,
+Meat for Men, ſtrong Meat for ſtrong Men, when we grow up to the mea<g ref="char:EOLhyphen"/>ſure
+of the ſtature appointed to us in Chriſt Jeſus. All true Life and growth
+is from our being united to Jeſus Chriſt our Head, who will perfect and
+compleat his Body.</p>
+            <p>Now to our bleſſed and glo<g ref="char:EOLhyphen"/>rious JESUS, who is able to
+per<g ref="char:EOLhyphen"/>fect what concerns us, and to ſanctifie us wholly in Soul, Body and
+Spirit: To Him be Glory, Honour and Praiſe for ever. He will in his own time
+bring us to the Day of Reſt, the perfect Number Seven.</p>
+            <p>
+               <hi>And God Reſted the Seventh Day: So God bleſſed the
+Seventh Day, and hallowed it.</hi> This Se<g ref="char:EOLhyphen"/>venth Day was a Day without Clouds;
+It is not ſaid of the Se<g ref="char:EOLhyphen"/>venth Day, <hi>The Evening and the 
+<pb n="123" facs="tcp:151842:70"/>Morning were</hi> that <hi>Day,</hi> as it was ſaid of
+the Firſt, and ſo on to the Sixth: Indeed the Natural Day that appears to
+this lower World, is as other Days; and to thoſe who dwell in the mixtures of
+Light and Darkneſs, Good and Evil; nay, they love Dark<g ref="char:EOLhyphen"/>neſs rather than
+Light; to them this Day hath not much more in it than other Days. But the
+All-glorious God, tho' he condeſcen<g ref="char:EOLhyphen"/>ded to work and operate in this
+Principle, wherein is ſome mix<g ref="char:EOLhyphen"/>ture of Darkneſs, and we can<g ref="char:EOLhyphen"/>not but ſay
+God was in the Darkneſs; yet he dwells not in the Darkneſs, he dwells in
+the Light, he Reſts there; he entred into his own Light Principle, and
+Reſts there: <hi>God is Light, and in him is no Darkneſs at all:</hi> He is
+Love, Anger is his ſtrange Work; ſo it ſhould be with his 
+<pb n="124" facs="tcp:151842:71"/>Children: <hi>Anger reſts in the Bo<g ref="char:EOLhyphen"/>ſom of Fools.</hi>
+If a Prophet or Propheteſs have a Command from God to go forth with a
+Meſſage of Wrath, a Denuntia<g ref="char:EOLhyphen"/>tion of Threatning, they muſt be obedient;
+but they muſt not reſt in it, they muſt not ſtir up the Wrath, they
+muſt rather qualifie it with the Meek Love of JESUS; there they may Reſt,
+in him they find Reſt to their Souls.</p>
+            <p>I did in the beginning of my Writings ſay ſomething, as I was
+enabled, of the Reſt and Repoſe of the glorious Deity, before his going
+forth into Manifeſtation or Operation: It was then, and is now an harmonious
+Stillneſs, a ſweet Repoſe; only now there is an Additional Joy, <hi>The
+Lord ſaw his Works, and they were all very good:</hi> He was pleaſed to
+be<g ref="char:EOLhyphen"/>hold <pb n="125" facs="tcp:151842:71"/>his Works, having ſo much of his own Image of
+Goodneſs in them; this cauſeth Joy in God himſelf: And tho' Sin did Cloud
+and Vail this Image, yet the Lord, in infinite Mercy and Wiſdom, did by
+Jeſus Chriſt, reſtore the faln Creation of Man, break down the middle
+Wall of Partition, not only between Jew and Gentile, but between God and Man:
+And our bleſſed Lord Jeſus himſelf is the New and Living Way, by which
+we enter in within the Vail now. When one Sinner returns, there is Joy in
+Heaven over one Sinner that repents, and the Father receives the Prodigal with
+Joy, till at laſt the whole Work ſhall be accom<g ref="char:EOLhyphen"/>pliſhed, and every
+Creature, of things in Heaven, things on Earth, and under the Earth, ſhall
+bleſs and praiſe the Lord for <pb n="126" facs="tcp:151842:72"/>ever. O what a
+bleſſed Sabbath will that be! But who can ex<g ref="char:EOLhyphen"/>preſs any thing of it? Only
+the Lord makes a poor weary heavy laden Soul to feel ſomething of it in
+himſelf, when we die in the Lord, and reſt from our Labours: When we die
+into the Lord, out of all things beſides, we ſhall know what it is to
+Reſt, and to rejoyce with Joy unſpeak<g ref="char:EOLhyphen"/>able and glorious. To reſt from our
+Labours, and to have our Works follow us, this is not a working for Life by
+Legal Per<g ref="char:EOLhyphen"/>formances; it is rather a work<g ref="char:EOLhyphen"/>ing from a Principle of Life, where
+the Works follow, and go not before the Life. But there is ſomething more
+than this, there is a State of Reſt and Joy, wherein the Works of the Spirit
+that are wrought in us, when the Lord works in us to Will and to 
+<pb n="127" facs="tcp:151842:72"/>Do, follow us, and are ſet before us, to cauſe in us
+Joy and Rejoy<g ref="char:EOLhyphen"/>cing. To look back upon our own Works, which are perfor<g ref="char:EOLhyphen"/>med from
+a Legal Selfiſh Princi<g ref="char:EOLhyphen"/>ciple, cauſeth no true Joy nor Reſt, but rather
+lifting up in Pride and Self-will: But in the true Work of the Spirit, tho' we
+may <hi>go forth weeping, bearing pre<g ref="char:EOLhyphen"/>cious ſeed, we ſhall return
+rejoycing, bringing our Sheaves with us.</hi> Theſe Fruits of the Spirit,
+Love, Joy, Peace, follow ſuch a Soul into the Reſt and ſweet Repoſe it
+attains here, and alſo into the Reſt which remains for the Peo<g ref="char:EOLhyphen"/>ple of
+God.</p>
+            <p>
+               <hi>Lord, Let me know ſuch a laſt<g ref="char:EOLhyphen"/>ing, permanent, ſixt
+Reſt, as may not have Evening nor Morning, but may be a Day without a Cloud,
+that I may have thy Light ſhining in me brighter and brighter, to the 
+<pb n="128" facs="tcp:151842:73"/>perfect Day, when thou wilt be my Light for ever.</hi>
+            </p>
+            <p>The Wiſe Men, whom God himſelf hath Enlightned, are the only
+Wiſe Men, and the moſt Happy; having the in<g ref="char:EOLhyphen"/>ward Repoſe which the World
+cannot give, nor take away: Wiſdom enables them to work, and when their Work
+is come to the Seventh Day of Perfection, they reſt from their Labours; their
+Work which was bulky and laborious, comes to be eaſily portable pleaſant
+Employment, which they account rather Reſt than Labour; and the effects of
+their Works, and the Work it ſelf, follows them where-ever they go; and ſo
+mighty Works ſhew forth themſelves in them, as in their glorious Lord and
+Ma<g ref="char:EOLhyphen"/>ſter, who promiſed that <hi>the Works that he did, they ſhould do 
+<pb n="129" facs="tcp:151842:73"/>alſo:</hi> Now theſe Works ſhew forth themſelves
+in them, more in their Patience, Stillneſs and Reſt, than in all their
+buſie Working. 'Tis but little Man hath to do in inward or outward Working,
+when he hath com<g ref="char:EOLhyphen"/>mitted himſelf and all his ways to the Lord. Now it is a
+bleſſed thing to feel any beginnings of this ſweet Day, this holy happy
+ſtate of Reſt, within; tho' it may not be brought forth thro' the whole
+Perſon: But the Lord is the Rock, and his Work is perfect; He will perfect
+what concerns thoſe that truſt in him.</p>
+            <p>
+               <hi>Wait patiently on the Lord, O my Soul, for he will give thee
+Reſt for the Days wherein he hath affli<g ref="char:EOLhyphen"/>cted thee: O that the Peace of God,
+that paſſeth all <g ref="char:V">Ʋ</g>nderſtanding, may guard my Heart and Mind, that no 
+<pb n="130" facs="tcp:151842:74"/>Storm nor Tempeſt may break in; that I could retire into
+my ſtrong Hold, as a Priſoner of Hope, wait<g ref="char:EOLhyphen"/>ing for the Redemption of my
+Bo<g ref="char:EOLhyphen"/>dy; and not mine only, but of the whole groaning Creation, that the Year of
+Jubilee may be known to them, when there ſhall be proclaimed Liberty for the
+Captives, that the Creation may be brought forth into the glorious Liberty of
+the Sons of God.</hi>
+            </p>
+            <p>O happy time, when <hi>Jeruſalem</hi> ſhall become the
+Praiſe of the whole Earth; when the Lord ſhall ſet his King upon the holy
+Hill of <hi>Sion;</hi> when our King ſhall be exalted by and upon a People
+who are as a barren Mountain, nothing in them<g ref="char:EOLhyphen"/>ſelves; that ſo our King and
+our God, the bleſſed JESUS, may Reign, to whom all Power in Heaven and
+Earth is given, and <pb n="131" facs="tcp:151842:74"/>of whoſe Dominion there is no End:
+To whom be Glory, and Honour, and Bleſſing, and Praiſe, for ever, and for
+ever, Amen, Hallelujah.</p>
+            <lg>
+               <lg>
+                  <l>Great Lord of Lords, and King of Kings,</l>
+                  <l>Thou mak'ſt my dry and thirſty Earth to ſing,</l>
+                  <l>And in the Deſart cauſeth a New Spring.</l>
+               </lg>
+               <lg>
+                  <l>Awake, my Soul, and ſing <hi>Jeho<g ref="char:EOLhyphen"/>vah's</hi> Praiſe,</l>
+                  <l>Who giveth Life, and from the Dead doth raiſe:</l>
+                  <l>Mercy and Goodneſs are in all his Ways.</l>
+               </lg>
+            </lg>
+            <div type="hymns">
+               <pb n="132" facs="tcp:151842:75"/>
+               <head>Hymns.</head>
+               <lg>
+                  <l>IN lowly Meekneſs I will dwell,</l>
+                  <l>The Lilly of the Vale is ſweet;</l>
+                  <l>Ofttimes the loftieſt Cedars fall,</l>
+                  <l>And then alas their fall is great.</l>
+               </lg>
+               <lg>
+                  <l>The Sp'rit that in the Myrtles moved,</l>
+                  <l>Is a pure breath of holy Air;</l>
+                  <l>Sometimes theſe Shrubs are viſited</l>
+                  <l>Whilſt higher Trees neglected are.</l>
+               </lg>
+               <lg>
+                  <l>Come my Beloved o're Mountain top,</l>
+                  <l>Come skipping o're the higheſt Hill;</l>
+                  <l>Let thy Winds on my Garden blow,</l>
+                  <l>Do thou with ſweets my Spices fill.</l>
+               </lg>
+               <pb n="133" facs="tcp:151842:75"/>
+               <lg>
+                  <l>When thou bright Sun vouchſaf'ſt to ſhine</l>
+                  <l>On my Beloved <hi>Sharon</hi> Roſe,</l>
+                  <l>It hath its ſweetneſs all from thee,</l>
+                  <l>And with thee takes a ſweet Re<g ref="char:EOLhyphen"/>poſe;</l>
+               </lg>
+               <lg>
+                  <l>It opens as the Morning fair,</l>
+                  <l>When thou bright Sun art pleas'd to appear,</l>
+                  <l>Then ſhuts up all its hidden ſtore,</l>
+                  <l>Till thy Sight does again draw near.</l>
+               </lg>
+               <lg>
+                  <l>Thus I'm a Garden clos'd to all,</l>
+                  <l>A Fountain ſeal'd to all but thee,</l>
+                  <l>Leſt little Foxes ſhould ſpoil my Vine,</l>
+                  <l>The tender Grape planted by thee.</l>
+               </lg>
+               <pb n="134" facs="tcp:151842:76"/>
+               <lg>
+                  <l>And leſt the Silver-running Stream,</l>
+                  <l>That is pure as it comes from thee,</l>
+                  <l>Should mingle, with the muddy Earth</l>
+                  <l>Partake of its impurity.</l>
+               </lg>
+            </div>
+            <div type="hymns">
+               <pb n="135" facs="tcp:151842:76"/>
+               <head>Hymns.</head>
+               <lg>
+                  <l>OH how ſhall I the praiſes ſing</l>
+                  <l>Of our great God and glori<g ref="char:EOLhyphen"/>ous King,</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nleſs his Spirit doth indite,</l>
+                  <l>What I ſhould ſing, what I ſhould write!</l>
+                  <l>His Spirit doth Secrets Reveal,</l>
+                  <l>He opens the Myſtick ſeventh Seal,</l>
+                  <l>The ſeventh Seal, the ſeventh Thunder</l>
+                  <l>Opens in me, a ſacred Wonder.</l>
+                  <l>He leads me to the Centre deep,</l>
+                  <l>Where Spirits dark their Priſon keep.</l>
+                  <l>Yet in this doleful Night does dwell</l>
+                  <l>A Light, that Conquers Death and Hell.</l>
+                  <l>For from the dark and hidden Ground,</l>
+                  <l>The Light ariſing may be found,</l>
+                  <pb n="136" facs="tcp:151842:77"/>
+                  <l>I have ſeen a darkſome gloomy ſhade</l>
+                  <l>Aweful and Majeſtick made,</l>
+                  <l>But at Sun-riſing with his light,</l>
+                  <l>Hath been more pleaſing to the ſight,</l>
+                  <l>With the ſweet and lovely Green,</l>
+                  <l>Guilded with the Sun between.</l>
+                  <l>So have I ſeen a Picture fair,</l>
+                  <l>Made by Artiſts Hand more rare,</l>
+                  <l>When from darkeſt ſhades I ſee,</l>
+                  <l>The Light ariſing to a degree,</l>
+                  <l>Moſt perfect, pleaſing, and moſt ſweet,</l>
+                  <l>Made from Variety ſo great.</l>
+                  <l>So have I heard a pleaſing ſound</l>
+                  <l>Ariſing from deep Gamuts ground;</l>
+                  <l>But Oh my ſpirits, how they fail,</l>
+                  <l>When I in this vaſt Ocean ſail.</l>
+                  <l>Now I've a deep and hidden ſenſe,</l>
+                  <l>From the Centre to the Circumfe<g ref="char:EOLhyphen"/>rence.</l>
+                  <l>Moſt holy Spirit keep me ſtill,</l>
+                  <l>I may be guided by thy will.</l>
+                  <l>Oh how can I deſcribe the fall</l>
+                  <l>My ſelf, ſo great a Criminal,</l>
+                  <l>Darker than night, darker than ſhade,</l>
+                  <pb n="137" facs="tcp:151842:77"/>
+                  <l>Or all things elſe that have been made;</l>
+                  <l>More ſad than Muſicks deepeſt ground,</l>
+                  <l>I muſt my Lamentation ſound.</l>
+                  <l>And from this doleful diſmal Cry,</l>
+                  <l>I would call all the ſtanders by,</l>
+                  <l>To ſee this ſad and tragi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k ſight,</l>
+                  <l>Which may the hardeſt Spirits fright.</l>
+                  <l>Here you may ſee a Lamb lye ſlain,</l>
+                  <l>With the deepeſt, ſharpeſt pain;</l>
+                  <l>There you ſee Spirits Captive led,</l>
+                  <l>Sure they are free amongſt the dead.</l>
+                  <l>Here are Spirits led in Chains,</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nder cruel torturing pains;</l>
+                  <l>There lye dry and ghaſtly Bones,</l>
+                  <l>With hearts more hard than hardeſt ſtones;</l>
+                  <l>Here lies ſhrieking, tortur'd Souls</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nder ugly Spirits Controuls.</l>
+                  <l>Now thoſe that thro' all this can ſee</l>
+                  <l>A lovely, beauteous Harmony,</l>
+                  <l>Muſt be Baptized of the Spirit,</l>
+                  <pb n="138" facs="tcp:151842:78"/>
+                  <l>And his Tincturing Love inherit.</l>
+                  <l>The Lamb is made a Sacrifice,</l>
+                  <l>But out of Death he does ariſe,</l>
+                  <l>And in his riſing gives a Spring</l>
+                  <l>Of Light and Life to every thing;</l>
+                  <l>The Captiv'd Soul he did ſet free,</l>
+                  <l>In Life and Immortality;</l>
+                  <l>Such as in darkeſt Chains are led,</l>
+                  <l>Are now ariſing from the dead;</l>
+                  <l>To dry and ghaſtly Bones does give,</l>
+                  <l>Power to Ariſe and Live;</l>
+                  <l>The Tortur'd Souls he does unbind,</l>
+                  <l>The fouleſt Spirits are calcin'd.</l>
+                  <l>But now my Soul fall down and praiſe,</l>
+                  <l>Before the Antient of Days;</l>
+                  <l>The Praiſes of the Lamb proclaim,</l>
+                  <l>Exalt and magnifie his Name.</l>
+                  <l>The Holy Spirit do thou adore,</l>
+                  <l>Who opens thus his hidden ſtore.</l>
+                  <l>The Three in One I'll Celebrate,</l>
+                  <l>All things in Love he did Create.</l>
+                  <l>Thoſe who are Objects now of woe,</l>
+                  <l>They may have Cauſe to think it ſo.</l>
+                  <l>All Creatures now bow down and fall,</l>
+                  <l>Before the Father of us all,</l>
+                  <l>And his high Praiſes with me ſing,</l>
+                  <l>Who is our Everlaſting King.</l>
+               </lg>
+            </div>
+            <div type="subpart">
+               <pb n="139" facs="tcp:151842:78"/>
+               <head>A Short Diſcourſe Concerning thoſe Two Great Principles
+of Natural Philoſophy, <hi>Matter</hi> and <hi>Motion.</hi>
+               </head>
+               <p>IT is the fault of many Inge<g ref="char:EOLhyphen"/>nious Perſons in their
+Diſ<g ref="char:EOLhyphen"/>courſes of Natural Things, that they only Speak or Write of them in
+their Second Cauſes, and not <hi>ab Origine,</hi> in their firſt Root and
+Fountain, the Divine Being, who is the Source of all Being, Bleſſedneſs
+and Happi<g ref="char:EOLhyphen"/>neſs; and I doubt not this hath been the fault of ſome, who have
+had in their Minds a high Ado<g ref="char:EOLhyphen"/>ration of the Ever Bleſſed God: Yet this
+neglect hath been a great Evil in Three Reſpects.</p>
+               <p>Firſt, That they have not as they ought acknowledged God 
+<pb n="140" facs="tcp:151842:79"/>in all their Ways, and did not begin with him who is the
+Be<g ref="char:EOLhyphen"/>ginning of all things.</p>
+               <p>Secondly, By this they may have miſled ſome of the
+Illiterate and Unthinking World, in ma<g ref="char:EOLhyphen"/>king ſome ready to doubt of the
+Firſt Cauſe, becauſe theſe Men who they value mention nothing of it,
+others think ill of the Men, and the Truths they Diſcourſe of, becauſe
+the Ground of all Truth is left out in their Wri<g ref="char:EOLhyphen"/>tings.</p>
+               <p>Thirdly, This kind of Philo<g ref="char:EOLhyphen"/>ſophy cannot be ſolid and
+ſub<g ref="char:EOLhyphen"/>ſtantial, wanting a good Foun<g ref="char:EOLhyphen"/>dation. I hope in what I have to ſay
+about Matter, and its Di<g ref="char:EOLhyphen"/>verſification, about Motion, and the Origine, Order
+and End of it, will be all plainly deduced from <pb n="141" facs="tcp:151842:79"/>the
+Almighty Goodneſs, the be<g ref="char:EOLhyphen"/>ginning of them, and return'd to him who is their
+Reſt. The Learned Mr. <hi>Boyle</hi> tells us, in his Book, called, <hi>The
+Origine of Forms and Qualities,</hi> that the World is made of one Univerſal
+and Catholick Matter, which is a great Truth, but few or none tells us, what
+this Matter is; much leſs, what it was; indeed ſome tells us, it was
+Nothing, why then it is ſo ſtill, 'tis not better than in the Paradiſical
+State of things; indeed it is no<g ref="char:EOLhyphen"/>thing, compar'd with its Origi<g ref="char:EOLhyphen"/>nal; it is
+nothing, if it were poſſible to ſeparate it from its Root, but ſince
+that cannot be, I will write of it as ſomething, or elſe my Diſcourſe
+would ſoon be at an end, for of nothing. It ſhould have but little to
+ſay; Matter is a continued Emanati<g ref="char:EOLhyphen"/>on <pb n="142" facs="tcp:151842:80"/>from the Viſible
+Heavens, which are a kind of middle Na<g ref="char:EOLhyphen"/>tures, between Spirit and Mat<g ref="char:EOLhyphen"/>ter, they
+are Spirit compar'd with Matter, and Matter compared with Spirit: What
+Communi<g ref="char:EOLhyphen"/>cations are between theſe middle Natures, and the Glorious up<g ref="char:EOLhyphen"/>per
+Light World, I will not now Diſcourſe, but I am ſure they have their
+Life, Light, Power, Virtue, all from thence, which if the Viſible Heavens did
+not convey to this Lower World, it would be brought al<g ref="char:EOLhyphen"/>moſt as near nothing,
+as ſome Men imagine it once to have been. The Scriptures teach us the beſt
+Natural Philoſophy, when they tell us, the Light is the Life of Man, and
+doubtleſs it is ſo of all other Creatures; not by ſhi<g ref="char:EOLhyphen"/>ning upon them, but
+by ſhining in them, being their ſubſtantial <pb n="143" facs="tcp:151842:80"/>Root and
+Original; the Sun as a ſecond Cauſe, was not made only to Illuminate the
+World to ſhine upon it, but to be the Parent or Father of Ve<g ref="char:EOLhyphen"/>getables, and
+other Creatures that do inhabit the Earth; the Sun doth impregnate and ſtir
+up the Vegetive Faculty of the Earth, and cauſes it to bring forth firſt
+the Root of an Opa<g ref="char:EOLhyphen"/>cous Colour like the Earth, in which it is fixt lighter than
+that, the Stalk grows up out of the mixture of the Nitrous Azure Air, and the
+Sulphureous Yel<g ref="char:EOLhyphen"/>low Earth, which being min<g ref="char:EOLhyphen"/>gled, cauſes the Verdant Stalk and
+Leaves, and by a greater Maturation and Ripening of the Subſtances, is
+produced the love<g ref="char:EOLhyphen"/>ly Red or Purple, the Glory of the Vegetable Kingdom. How the
+Sun, and other Luminous <pb n="144" facs="tcp:151842:81"/>Bodies do produce Minerals, and
+and are Conducive to Animal Births, I ſhall not now Diſcourſe, each part
+would make a large Tract, that theſe Congregate Bodies of Light are Conducive
+to the Production of things, and are the moſt excellent, active Se<g ref="char:EOLhyphen"/>cond
+Cauſes, is obvious almoſt to our very outward Senſes; but there was a
+time when theſe bright Bodies had not a Being, as they now have, and then
+they could not produce other Beings, nor give Being to themſelves; the Light
+that is the Life of Man, is alſo the Light and Life of theſe Creatures, (of
+this bright Sun and Moon) he is a Wiſe and All-powerful Agent who gave them
+their ſhining, and when he withdraws his Influences, the Sun ſhall be
+turned into Dark<g ref="char:EOLhyphen"/>neſs, and the Moon into Blood, <pb n="145" facs="tcp:151842:81"/>
+                  <hi>before the great and notable Day of the Lord come,</hi> as the
+Holy Scrip<g ref="char:EOLhyphen"/>tures tell us: And though we have not ſeen this particular change
+here mentioned, we know not how ſoon it may be; and however, we have ſeen
+enough Alterations upon the whole Face of Viſible Things, to make us know
+they are not perfect Be<g ref="char:EOLhyphen"/>ings, and did not make them<g ref="char:EOLhyphen"/>ſelves, but are made and
+govern<g ref="char:EOLhyphen"/>ed by a Perfect and Intelligent Being</p>
+               <p>The Second Principle to be Diſcours'd of about Matter, is,
+That the great Bodies of Light, and other Creatures of Bulk, do conſiſt,
+and are made up of leſſer Bodies, which we may call A<g ref="char:EOLhyphen"/>toms, Corpuſcles or
+Particles; theſe little parts of Matter have their determinate ſize,
+ſhape, <pb n="146" facs="tcp:151842:82"/>ſcituation, colour, in order to conſtitute
+ſomething of greater Bulk, Beauty, and Service; the Texture and Joining
+together of theſe are contrived by a Wiſe A<g ref="char:EOLhyphen"/>gent, to conduce to a Noble
+End. The motion or moving of theſe little Particles, did at firſt con<g ref="char:EOLhyphen"/>duce,
+as a Second Cauſe, to the making Varieties of Creatures; and it is now highly
+conducing to the Changes that paſs upon all material things; which brings me
+to the Second Head of Diſ<g ref="char:EOLhyphen"/>courſe I principally intended, which is to ſay
+ſomething of Motion; Matter had an Occult Principle of Motion hid in its
+Nature, not being made of a dull inſenſible nothing, out of I know not what
+imaginary, empty ſpace, but was made of an active Subſtance; yet it did not
+actu<g ref="char:EOLhyphen"/>ally move in a regular determi<g ref="char:EOLhyphen"/>nate <pb n="147" facs="tcp:151842:82"/>Motion, till the
+Spirit of the Living God, Moved upon it, and thereby put it into its right
+order of moving, and eſta<g ref="char:EOLhyphen"/>bliſhed the Laws of its Motion, in which courſe
+of moving it re<g ref="char:EOLhyphen"/>mains to this Day, only to ſhow that he is a Wiſe and Free
+A<g ref="char:EOLhyphen"/>gent that moved it at firſt, and continues preſent with it to di<g ref="char:EOLhyphen"/>rect all
+its Motions; the uſual Courſe of it hath ſometimes been a little altered,
+and new Work<g ref="char:EOLhyphen"/>manſhip hath been made to ap<g ref="char:EOLhyphen"/>pear, to ſhow the Soveraignty,
+Wiſdom and Power of the Ma<g ref="char:EOLhyphen"/>ker and Mover of all things. Some have compared
+this World to a Clock-work; that kind of Work, may a little explain to us the
+Matter and Motion of this great Machine or Engine, the great World; but in this
+they greatly differ, the little Clocks <pb n="148" facs="tcp:151842:83"/>and Watches are
+made and put into Motion, but left by the Maker to move a determinate time
+without him; or he leaves it to ſome other Agent to carry on the Motions: But
+if by Ac<g ref="char:EOLhyphen"/>cident, or ſome Ignorant Hand, ſomething ſhould come in be<g ref="char:EOLhyphen"/>tween
+the Wheels, it would wholly ſtop or diſorder the whole Frame; but if the
+Wiſe Artiſt brings in any new Move<g ref="char:EOLhyphen"/>ments, they may be for Orna<g ref="char:EOLhyphen"/>ment and
+Uſe in the Work; this hath been done in the upper Wheels of the great
+Clock-work our Viſible Heavens, which proves what I before aſſerted, the
+preſence of an Omniſcient Mover: And as the Viſible Hea<g ref="char:EOLhyphen"/>vens may be
+diſcours'd of, as the upper Wheels of a Clock, for their Circular Motion,
+ſo may the Earth, and its Motion, be a <pb n="149" facs="tcp:151842:83"/>little explained,
+by comparing it with the Pendulum, that pon<g ref="char:EOLhyphen"/>derates and gravitates the Moti<g ref="char:EOLhyphen"/>on
+of the Earth, being ſome<g ref="char:EOLhyphen"/>what like this; not as ſome have ſuppoſed,
+whirling about its Axis, but moving, as we call it, forward and backward,
+Eaſt<g ref="char:EOLhyphen"/>ward and Weſtward, which cauſes the Ebbing and Flowing of the Sea;
+which whirls not a<g ref="char:EOLhyphen"/>bout like a Whirlpool, but moves conſtantly Eaſt and
+Weſt; the cauſe of which I ſhall by and by intimate a little more fully,
+that the Viſible Heavens are kept in their Beauty, Order, Motion, by the
+Power of Attraction, of Divine Energy, Power, Virtue, from the upper Light
+World, I am well aſſured, but how this is performed. I ſhall not more
+largely expreſs at preſent, ſuch Knowledge is too wonderful for 
+<pb n="150" facs="tcp:151842:84"/>me; yet ſometimes ſuch a little Living Engine as my
+ſelf, in its moving up and down this great World, feels ſomething of the
+Di<g ref="char:EOLhyphen"/>vine Magnetiſm and Attraction in ſuch a manner, as no words can
+expreſs fully; yet it is ſuch as gives a little Knowledge of ſuch Powers
+and Virtues in their various Degrees and Meaſures through the whole
+Univerſe: But to ſpeak of Motion, as it is performed by Second Cauſes, it
+is performed in the great World, by the Attraction or Magnetiſm of Light and
+Fire; that Fire draws Fiery Subſtances, is ob<g ref="char:EOLhyphen"/>vious to common Underſtanding
+and Experience. The Lights and Fires of the Viſible Heavens are placed quite
+round the Earth, and ſo draw and Attract ſtrong<g ref="char:EOLhyphen"/>ly the Internal Heat and
+Fire contain'd in the Earth; drawing <pb n="151" facs="tcp:151842:84"/>thus every way, as a
+Second Cauſe, keeps the Earth and Wa<g ref="char:EOLhyphen"/>ter (whereof the whole Globe
+conſiſts) in <hi>equalibrio,</hi> but at the Riſing of the Sun, which is
+a large Aggregate of Light and Fire, the Earth enclines that way, and at the
+Setting, the o<g ref="char:EOLhyphen"/>ther; but that it Conſtantly keeps not this Motion, and no
+other, is from the interveening of the Moon, and other Heaven<g ref="char:EOLhyphen"/>ly Bodies, which
+alſo have the ſtrong Power of Attraction: And there is alſo in the Earth
+ſome large Orifices, <gap reason="illegible" resp="#OXF" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> which
+more ſtrongly may at<g ref="char:EOLhyphen"/>tract, and ſo move and encline the Earth; but in what
+part of the Globe theſe are placed, I ei<g ref="char:EOLhyphen"/>ther have not read in my little
+Knowledge of Geography, or have forgot theſe hints; if wor<g ref="char:EOLhyphen"/>thy
+conſideration may put ſome <pb n="152" facs="tcp:151842:85"/>more fit Perſon upon the
+Enqui<g ref="char:EOLhyphen"/>ry, and they may expreſs their Thoughts in a better Method: Some may
+ſay theſe indeed are ſome Theoretical Diſcourſes, Particular Opinions
+or Appre<g ref="char:EOLhyphen"/>henſions of Things, but of what uſe we know not, either to the
+Minds of Men, or their out<g ref="char:EOLhyphen"/>ward Condition: Whether theſe Conſiderations may
+be uſeful in the Mechanicks, I know not; to ſuch as have been long Studying
+to make ſome Engine with a Perpetual Motion; what they mean
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>petual, I know not; I ſuppoſe
+only a long Duration; I am apt to think ſomething of this kind may be made,
+that by the Power of Magnetiſm, may continue longer moving than a<g ref="char:EOLhyphen"/>ny thing
+elſe hath been found: But though I ſee ſomething how this may be done,
+yet not ſo as to <pb n="153" facs="tcp:151842:85"/>give a perfect Model to any Bo<g ref="char:EOLhyphen"/>dy; nor
+can I at preſent work it with my own Hands, I know not what time may produce
+of this kind; I am not yet any good Mathematician.</p>
+               <p>Secondly, Theſe two Princi<g ref="char:EOLhyphen"/>ples of Philoſophy,
+<hi>Matter</hi> and <hi>Motion</hi> ſimply conſidered, may, if made uſe
+of, produce things uſeful to the Health of Mankind, and may cauſe ſtrange
+Changes in many Subſtances; I will in<g ref="char:EOLhyphen"/>ſtance only in an Experiment, I think
+call'd the <hi>Torecellian</hi> Expe<g ref="char:EOLhyphen"/>riment, performed in the King of
+<hi>Denmark</hi>'s Laboratory, where the Compact Body of Gold be<g ref="char:EOLhyphen"/>ing for a
+conſiderable time ground in a Gold or Steel Mill, was ſo opened and
+changed, as to become a high uſeful Medicine for the Bodies of Mankind; and 
+<pb n="154" facs="tcp:151842:86"/>I know not; but in this way it may be made capable of
+penetra<g ref="char:EOLhyphen"/>ting Mineral Subſtances, and thereby become uſeful many ways,
+wherein the Conſiderati<g ref="char:EOLhyphen"/>on of what hath been ſaid, may be uſeful to the
+Minds of Men; I ſhall ſay a little, and ſo Con<g ref="char:EOLhyphen"/>clude this
+Diſcourſe.</p>
+               <p>The Great and Good God did make all things, and put them into
+motion for great and wiſe Ends; nothing moves that it may move, but that it
+may be of ſome uſe and ſervice while it moves, and in order to
+Perfecti<g ref="char:EOLhyphen"/>on and Reſt; hardly any Man moves, but he intends Health or
+Buſineſs, and in a little time Reſt: The motion of the whole Creation is
+in order to Perfecti<g ref="char:EOLhyphen"/>on and Reſt, and this is only by terminating in the
+Bleſſed Foun<g ref="char:EOLhyphen"/>tain <pb n="155" facs="tcp:151842:86"/>of Being: Some Creatures do wander,
+and ſeem to go out of their way; but he that guides all their motions, knows
+how to reduce them to their true end, his Glory, and their Happineſs. There
+is a Line in the Heavens, called the Zodiack, through which all the Planets
+move; ſome of them ſeem to wander up and down this Line tranſverſe up
+and down, but all come to the ſame end, with thoſe that keep a direct Line
+that runs through this great Circle. The Sun keeps its conſtant Courſe
+through a Line, called the E<g ref="char:EOLhyphen"/>cliptick Line; we may imitate this Heavenly Body
+in a conſtant even motion; ſome other Lights do move in the ſame Cir<g ref="char:EOLhyphen"/>cle,
+but by their wandrings, are longer e're they perfect it: I find my ſelf
+liable to wander <pb n="156" facs="tcp:151842:87"/>and ſtray, but I often pray, ſeek the
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oul of thy Servant, O Lord, and I
+beſeech thee, ſeek all thy ſtraying Sheep, gather them in<g ref="char:EOLhyphen"/>to one
+Sheepfold, that every Creat<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, of
+Things in Heaven, and Earth and under the Earth, may praiſe thee,
+<hi>Alpha</hi> and <hi>O<g ref="char:EOLhyphen"/>mega,</hi> Hallelujah, Hallelujah, Hallelujah,
+<hi>Amen. Bleſs the Lord, O my Soul.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:151842:87"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
